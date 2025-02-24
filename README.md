@@ -83,8 +83,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 2.3.1 | Lost |
 | 2.3.2 | Lost |
 | 2.4.0 | https://builds.rebootfn.org/2.4.0.zip | https://drive.google.com/file/d/1AmxU8hd43H0p3kK9zYN9gZhQJV3hn8J3/view | https://galaxiafn.co.uk/2.4.0.zip |
-| 2.4.1 | https://builds.rebootfn.org/2.4.2.zip |  https://drive.google.com/file/d/1nflHQuwOa7_E2SNSy-eBVK-QllyeoLsY/view |
-| 2.4.2 | Lost |
+| 2.4.1 | https://builds.rebootfn.org/2.4.2.zip | 
+| 2.4.2 | https://drive.google.com/file/d/1nflHQuwOa7_E2SNSy-eBVK-QllyeoLsY/view?usp=sharing |
 | 2.5.0 | https://builds.rebootfn.org/2.5.0.rar | https://drive.google.com/file/d/1KFJuos918RJk2lgm2_ScZh7bnxmkb8k0/view |
 
 ## Season 3
@@ -210,10 +210,10 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 12.21 | https://drive.google.com/file/d/1A0zKg5vDmCp5SfPir6NkWWikvfBItlC9/view |
 | 12.30 | Unavailable |
 | 12.40 | Lost |
-| 12.41 | https://drive.google.com/file/d/1zZsXq2K9YS0Yg290LmZW8uRitakW3aiu/view | https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip | https://cdn.aufgeladen.dev/12.41.zip |
+| 12.41 | https://drive.google.com/file/d/1zZsXq2K9YS0Yg290LmZW8uRitakW3aiu/view | https://fnbuilds.boostedv2.dev/12.41.rar | https://cdn.aufgeladen.dev/12.41.zip |
 | 12.50 | https://drive.google.com/file/d/1Zvo4sVIpv25FvrpPnoeyDpPLVQUK16A2/view |
 | 12.60 | Lost |
-| 12.61 | Unavailable |
+| 12.61 | https://public.privateuser.xyz/12.61.zip |
 
 ## Season 13
 | Build | Download | Alternative Download | Alternative Download
@@ -222,7 +222,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 13.10 | Lost |
 | 13.20 | Lost |
 | 13.30 | Unavailable |
-| 13.40 | https://drive.google.com/file/d/1Xv-8FIr4_YH7eETGneIeUeQvh5Yptbf0/view |
+| 13.40 | https://drive.google.com/file/d/1Xv-8FIr4_YH7eETGneIeUeQvh5Yptbf0/view | https://drive.usercontent.google.com/download?id=1vtO5dgy6-IRurfY6PdIEI1wSvCgvSO2C&export=download&authuser=0&confirm=t&uuid=beb002c8-d74d-4e13-ae3d-7f7130680093&at=APZUnTWUkdkmJHCrox57r2MUNlCU%3A1704234414990 |
 
 ## Season 14
 | Build | Download | Alternative Download | Alternative Download
@@ -230,7 +230,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 14.00 | https://drive.google.com/file/d/1FCyoH2exoLf6RRjf3GfUDM4o2ibVq5R4/view |
 | 14.10 | Lost |
 | 14.20 | Lost |
-| 14.30 | https://drive.google.com/file/d/1H_fTXKdYnIAyyUU130kYUdvkxtSiZTvR/view |
+| 14.30 | https://drive.google.com/file/d/1H_fTXKdYnIAyyUU130kYUdvkxtSiZTvR/view | https://www.dropbox.com/scl/fi/laarogoaj111xprv3s959/14.30.rar?rlkey=ki86gl9uo916v8kgt9i7h3rmf&st=r6924ftm&dl=0 | https://drive.google.com/file/d/1ss1suEw3d1_9E_te60BlYfZAvRC1qAN_/view?usp=sharing |
 | 14.40 | Unavailable |
 | 14.50 | Unavailable |
 | 14.60 | https://drive.google.com/file/d/1nY-F8sCMuJaKaDQttst67Ce3duQsZD5j/view |
@@ -282,7 +282,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 19.00 | Unavailable |
 | 19.01 | https://drive.google.com/file/d/1LPk0AUo1H1p9mSkhsFl8MZy4CnfquwD3/view |
-| 19.10 | https://web.archive.org/web/20240824224349/https://public.simplyblk.xyz/19.10.rar |
+| 19.10 | https://web.archive.org/web/20240824224349/https://public.simplyblk.xyz/19.10.rar | https://public.privateuser.xyz/19.10.rar |
 | 19.20 | Unavailable |
 | 19.30 | Lost |
 | 19.40 | Unavailable |
