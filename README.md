@@ -688,7 +688,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | QAGame | Unavailable |
-| Main-CL-21452241 (Xbox One, Xbox One) | https://gofile.io/d/6fwioK | https://store9.gofile.io/download/web/4ca861bf-6889-42bf-9180-981f50011eac/%2B%2BFortnite%2BMain-CL-21452241-XB1.7z |
+| Main-CL-21452241 (Xbox One, Xbox One) | https://gofile.io/d/6fwioK | https://store9.gofile.io/download/web/4ca861bf-6889-42bf-9180-981f50011eac/FortniteMainBuild |
 
 # Small Contributors
 
