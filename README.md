@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Fortnite Builds Text Archive
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/c5ikkgf3ewzzxhk4brp5q/Fortnite-Builds-Text-Archive-19.10.txt?rlkey=mc0t9nu936z84yt1ickfj9xmh&st=8sx179em&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/zj8tqf9qojewm5yehnjae/Fortnite-Builds-Text-Archive-19.11.txt?rlkey=f9sukha294rqpbv670otom23u&st=xzm6nsjf&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -30,7 +30,7 @@ Thank you to the following archivists for maintaining most of the builds
 
 [Me](https://github.com/llamaqwerty)
 
-[ka pum](https://x.com/KPMisParrot): 9.20-CL-6822798, 14.30-CL-14456520, 17.10-CL-16745144, 17.20-CL-16868155, 23.10-CL-23443094
+[ka pum](https://x.com/KPMisParrot): QAGame, 14.30-CL-14456520, 17.10-CL-16745144, 17.20-CL-16868155, 23.10-CL-23443094
 
 [CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 12.20-CL-12236980, 12.40-CL-12837456, 13.20-CL-13777676, 13.30-CL-13884634, 15.20-CL-15070882, 16.20-CL-16042441, 19.30-CL-19027703
 
@@ -290,7 +290,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 9.10 (9.10-CL-6573057) | Lost |
 | 9.10.1 (9.10-CL-6616201) | Lost |
 | 9.10.2 (9.10-CL-6639283) | https://public.simplyblk.xyz/9.10.rar | https://builds.rebootfn.org/9.10.rar | https://galaxiafn.co.uk/9.10.zip |
-| 9.20 (9.20-CL-6822798) | https://public.simplyblk.xyz/9.20.rar | https://gofile.io/d/kWGALb | https://gofile.io/d/cImF4E |
+| 9.20 (9.20-CL-6822798) | https://public.simplyblk.xyz/9.20.rar |
 | 9.21 (9.21-CL-6922310) | https://public.simplyblk.xyz/9.21.zip | https://builds.rebootfn.org/9.21.zip |
 | 9.30 (9.30-CL-7021684) | Lost | 
 | 9.30.1 (9.30-CL-7095426) | https://public.simplyblk.xyz/9.30.zip | https://builds.rebootfn.org/9.30.zip |
@@ -339,7 +339,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 12
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 12.00-CL-11556442 | [https://public.simplyblk.xyz/12.00.rar | https://42.gigafile.nu/download.php?file=0716-o673a3d5bfc26a51c6a31cf65b9f7ba49 |
+| 12.00-CL-11556442 | https://public.simplyblk.xyz/12.00.rar | https://42.gigafile.nu/download.php?file=0716-o673a3d5bfc26a51c6a31cf65b9f7ba49 |
 | 12.00-CL-11566760 | Lost |
 | 12.00-CL-11586896 | Unavailable |
 | 12.10-CL-11794982 | Lost |
@@ -687,7 +687,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Other
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| QAGame | Unavailable |
+| QAGame | https://gofile.io/d/KEV3wO | https://cold7.gofile.io/download/web/1cd0be88-5458-4d0b-a6dc-bcc4f3d4baba/QAGame.rar |
 | Main-CL-21452241 (Xbox One, Xbox One) | https://gofile.io/d/6fwioK | https://store9.gofile.io/download/web/4ca861bf-6889-42bf-9180-981f50011eac/FortniteMainBuild |
 
 # Small Contributors
