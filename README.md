@@ -78,7 +78,7 @@ All builds are Windows builds. If you want builds for alternative platforms then
 
 [Xbox One Builds Archive](https://github.com/Xader726/FortniteXboxBuilds)
 
-If you have a build considered lost or  then try uploading it and send me the link!
+If you have a build considered lost or unavailable then try uploading it and send me the link!
 
 If a google drive link says there are too many people use the [bypass glitch](https://www.youtube.com/watch?v=_xW9w1d2LEY)
 
