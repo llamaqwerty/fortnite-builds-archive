@@ -62,9 +62,11 @@ Buzzheavier will be broken if your adblocker is enabled
 I am implementing requirements necessary if you want your CDN's links included on here. Your links must actively work for the majority of people. The links must be capable of fully downloading without any issues. The bandwidth cap should not be so low that it takes several hours to fully download with the exception of slow internet. If you don't resolve any of these issues, then it will be removed for good no matter the circumstances.
 
 # Notes
-I am not the owner of any of these builds and am not resposible for any of the drives they are on
+I am not the owner of any of these builds and am not resposible for any of the drives they are on.
 
-All builds are Windows builds. If you want builds for alternative platforms then these following links will take you to a different repo:
+If you want to download builds using manifests, you can [get Legendary from here](https://drive.google.com/drive/u/0/folders/1NXsfDJEwNBanjWFaLaZH7q3IdY3eKuEE) and [get manifests from here](https://github.com/polynite/fn-releases)
+
+All builds on this repository are Windows builds. If you want builds for alternative platforms then these following links will take you to a different website where you can get them:
 
 [Android Builds Archive](https://github.com/itztiva/FortniteAndroidBuilds)
 
