@@ -445,7 +445,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 17.20-CL-16868155 | Unavailable |
 | 17.21-CL-16949556 | Lost |
 | 17.21-CL-16967001 | Unavailable |
-| 17.30-CL-17004569 | https://public.simplyblk.xyz/17.30.zip |
+| 17.30-CL-17004569 | https://public.simplyblk.xyz/17.30.zip | https://cdn.fortmp.dev/17.30.zip |
 | 17.40-CL-17215766 | Lost |
 | 17.40-CL-17269705 | Unavailable |
 | 17.50-CL-17328477 | Lost |
