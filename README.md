@@ -7,7 +7,7 @@ A build collection like no other.
 <details open>
   <summary><h1>Fortnite Builds Text Archive</h1></summary>
 
- If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/rl438m5ovy9wzmaddw01w/Fortnite-Builds-Text-Archive-21.10.txt?rlkey=whdlfma5c3qhope8nhj3xwjtj&st=u8gfia7j&dl=0)
+ If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/04tovwwtbl1n9ay8o7t42/Fortnite-Builds-Text-Archive-21.20.txt?rlkey=jwwc4erv77hoaclk2qv8cwi2f&st=cwqofvwl&dl=0)
 
  Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -23,8 +23,6 @@ A build collection like no other.
   [0729たいがー](https://discord.gg/5dwHYcVwtP): 5.00-CL-4204761, 7.40-CL-5046157, 12.00-CL-11556442, 12.41-CL-12905909, 12.50-CL-13137020, 12.61-CL-13498980, 21.00-CL-20463113, 21.20-CL-20978394, 21.30-CL-21155462, 21.40-CL-21407327, 21.51-CL-21735703, 22.00-CL-22149829, 22.10-CL-22429549, 22.20-CL-22600409, 22.40-CL-23070899, 23.00-CL-23344627, 23.10-CL-23572221, 23.20-CL-23783097, 23.40-CL-24087481, 23.50-CL-24441668, 24.00-CL-24554913, 24.01-CL-24672685, 24.10-CL-24903530, 24.20-CL-25156858, 24.30-CL-25347382, 24.40-CL-25521145, 24.40-CL-25595478, 25.00-CL-25909622, 25.10-CL-26000959, 25.11-CL-26171015, 25.20-CL-26474516, 25.20-CL-26629111, 25.30-CL-26867995, 26.00-CL-27233190, 26.00-CL-27424790, 26.10-CL-27681420, 26.20-CL-28096793, 26.30-CL-28688692, 27.00-CL-29072304, 27.10-CL-29552510, 27.11-CL-29739262, 28.00-CL-29915848, 28.01-CL-30106568, 28.01-CL-30313795, 28.10-CL-30676362, 28.20-CL-31286935, 28.30-CL-31511038, 29.00-CL-32116959, 29.01-CL-32291970, 29.10-CL-32391220, 29.10-CL-32567225, 29.20-CL-32716692, 29.30-CL-32982357, 29.40-CL-33629566, 30.00-CL-33962396, 30.10-CL-34261954, 30.20-CL-34597766, 30.30-CL-34891016, 30.40-CL-35235494, 31.00-CL-35447195, 31.10-CL-35815136, 31.30-CL-36600465, 32.00-CL-37505882, 32.11-CL-38202817, 33.10-CL-38630093, 33.11-CL-38773622, 33.20-CL-39082670, 33.30-CL-39435251, 34.00-CL-40085084, 34.10-CL-40567068, 34.20-CL-40965447
 
   [Me](https://github.com/llamaqwerty): OT11 Playsation 4, Cert-CL-3532353, 10.00-CL-7658179, 12.20-CL-12236980, 13.30-CL-13884634, 15.20-CL-15070882, 16.20-CL-16042441, 17.10-CL-16745144, 18.30-CL-17882303, 19.20-CL-18775446, 19.30-CL-19027703, 21.20-CL-20978394, 24.00-CL-24554913, 24.01-CL-24672685, 25.00-CL-25909622, 25.10-CL-26000959, 25.11-CL-26171015, 25.30-CL-26867995, 26.00-CL-27424790, 26.10-CL-27681420, 27.11-CL-29739262, 28.00-CL-29915848, 28.30-CL-31511038, 29.10-CL-32391220, 29.20-CL-32716692, 29.30-CL-32982357, 29.40-CL-33629566, 30.00-CL-33962396, 30.30-CL-34891016, 31.10-CL-35815136, 31.30-CL-36600465, 32.11-CL-38371047, 33.00-CL-38504598, 33.30-CL-39435251, 34.00-CL-40085084, 35.10-CL-42476511, 35.20-CL-42911808
-
-  [Shoqaratio](https://github.com/Shoqaratio): OT6.5, 1.7.2-CL-3700114, 1.11-CL-3807424, 2.4.0-CL-3858292, 3.0-CL-3901517, 3.5-CL-4008490, 3.6-CL-4019403, 4.0-CL-4039451, 4.1-CL-4053532, 4.2-CL-4072250, 4.5-CL-4159770, 5.41-CL-4363240, 6.21-CL-4526925, 7.00-CL-4629139, 7.30-CL-4834550, 7.40-CL-5046157, 8.50-CL-6058028, 8.51-CL-6165369, 9.10-CL-6639283, 9.41-CL-7609292, 10.40-CL-9380822, 11.00-CL-9603448, 12.41-CL-12905909, 14.60-CL-14786821, 15.30-CL-15341163, 15.50-CL-15526472, 16.40-CL-16218553, 16.50-CL-16432754, 18.40-CL-18163738, 19.10-CL-18675304, 19.40-CL-19215531, 20.30-CL-19950687
 
   [CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 12.20-CL-12236980, 12.40-CL-12837456, 13.30-CL-13884634, 15.20-CL-15070882, 16.20-CL-16042441
 
@@ -130,7 +128,7 @@ A build collection like no other.
 | OT6 (4.11.0-2801990) | Lost |
 | OT6.1 (4.1?.0-???????) | Lost |
 | OT6.2 (4.1?.0-???????) | Lost |
-| OT6.5 (4.12.0-2870186) (Windows, Windows, Windows) | https://drive.google.com/file/d/1SvrhOV72Qvv9mwI3RLMo2rOLGwAtRlNi/view | https://archive.org/download/pre-battle-royal-ot-0.6.5/Pre-Battle-Royal_OT0.6.5.zip | https://storage.googleapis.com/galaxiafn.co.uk/0.6.5.zip |
+| OT6.5 (4.12.0-2870186) (Windows, Windows, Windows) | https://drive.google.com/file/d/1SvrhOV72Qvv9mwI3RLMo2rOLGwAtRlNi/view | https://archive.org/download/pre-battle-royal-ot-0.6.5/Pre-Battle-Royal_OT0.6.5.zip |
 | OT6.6 (4.12.0-2898795) | Lost |
 | OT6.7 (4.12.0-2919741) | Lost |
 | OT7 (4.12.0-3012530) | Lost |
@@ -174,7 +172,7 @@ A build collection like no other.
 | 1.6.4 (Release-Cert-CL-3668626) | Lost |
 | 1.7.0 (Release-Cert-CL-3681159) | Lost |
 | 1.7.1 | Lost |
-| 1.7.2 (Release-Cert-CL-3700114) (EXC) | https://builds.rebootfn.org/1.7.2.zip | https://storage.googleapis.com/galaxiafn.co.uk/1.7.2.zip |
+| 1.7.2 (Release-Cert-CL-3700114) (EXC) | https://builds.rebootfn.org/1.7.2.zip |
 
 ## Season 1
 | Build | Download | Alternative Download | Alternative Download
@@ -190,12 +188,12 @@ A build collection like no other.
 ## Season 2
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 1.11.0 (Release-Cert-CL-3807424) | https://builds.rebootfn.org/1.11.zip | https://storage.googleapis.com/galaxiafn.co.uk/1.11.zip |
+| 1.11.0 (Release-Cert-CL-3807424) | https://builds.rebootfn.org/1.11.zip |
 | 2.1.0 (Release-Cert-CL-3825894) | https://builds.rebootfn.org/2.1.0.zip |
 | 2.2.0 (2.2.0-CL-3841827) | Unavailable |
 | 2.3.0 (2.3.0-CL-3847564) | https://builds.rebootfn.org/2.3.rar |
 | 2.3.2 (2.3.2-CL-3856999) | Lost |
-| 2.4.0 (2.4.0-CL-3858292) | https://builds.rebootfn.org/2.4.0.zip | https://storage.googleapis.com/galaxiafn.co.uk/2.4.0.zip |
+| 2.4.0 (2.4.0-CL-3858292) | https://builds.rebootfn.org/2.4.0.zip |
 | 2.4.2 (2.4.2-CL-3870737) | https://builds.rebootfn.org/2.4.2.zip |
 | 2.4.X (2.4.x-CL-3876086) | Lost |
 | 2.5.0 (2.5-CL-3889387) | https://builds.rebootfn.org/2.5.0.rar |
@@ -203,7 +201,7 @@ A build collection like no other.
 ## Season 3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 3.00 (3.0.0-CL-3901517) | https://builds.rebootfn.org/3.0.zip | https://storage.googleapis.com/galaxiafn.co.uk/3.0.zip |
+| 3.00 (3.0.0-CL-3901517) | https://builds.rebootfn.org/3.0.zip |
 | 3.10 (3.1-CL-3915963) | https://builds.rebootfn.org/3.1.rar |
 | 3.10.1 (3.1-CL-3917250) (EXC) | https://builds.rebootfn.org/3.1.1.zip |
 | 3.20 (3.2-CL-3929794) | Lost |
@@ -214,21 +212,21 @@ A build collection like no other.
 | 3.40.1 (3.4-CL-3973340) | Lost |
 | 3.50 (3.5-CL-3994867) | Lost |
 | 3.50.1 (3.5-CL-4000805) | Lost |
-| 3.50.2 (3.5-CL-4008490) | https://builds.rebootfn.org/3.5.rar | https://storage.googleapis.com/galaxiafn.co.uk/3.5.zip |
-| 3.60 (3.6-CL-4019403) | https://storage.googleapis.com/galaxiafn.co.uk/3.6.zip | https://archive.org/download/fortnite-v3.6/Fortnite%20v3.6.7z |
+| 3.50.2 (3.5-CL-4008490) | https://builds.rebootfn.org/3.5.rar |
+| 3.60 (3.6-CL-4019403) | https://archive.org/download/fortnite-v3.6/Fortnite%20v3.6.7z |
 
 ## Season 4
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 4.00 (4.0-CL-4039451) | https://builds.rebootfn.org/4.0.zip | https://storage.googleapis.com/galaxiafn.co.uk/4.0.zip |
-| 4.10 (4.1-CL-4053532) (EXC) | https://storage.googleapis.com/galaxiafn.co.uk/4.1.zip | https://archive.org/download/Fortnite-4.10-CL-4053532.zip/4.10-CL-4053532.zip |
-| 4.20 (4.2-CL-4072250) | https://builds.rebootfn.org/4.2.zip | https://storage.googleapis.com/galaxiafn.co.uk/4.2.zip |
+| 4.00 (4.0-CL-4039451) | https://builds.rebootfn.org/4.0.zip |
+| 4.10 (4.1-CL-4053532) (EXC) | https://archive.org/download/Fortnite-4.10-CL-4053532.zip/4.10-CL-4053532.zip |
+| 4.20 (4.2-CL-4072250) | https://builds.rebootfn.org/4.2.zip |
 | 4.30 (4.3-CL-4095806) | Lost |
 | 4.30.1 (4.3-CL-4103483) | Lost |
 | 4.40 (4.4-CL-4117433) | https://builds.rebootfn.org/4.4.rar |
 | 4.40.1 (4.4-CL-4127312) (EXC) | Text Archive Exclusive |
 | 4.4.X (4.4.x-CL-4132537) | Lost |
-| 4.50 (4.5-CL-4159770) | https://storage.googleapis.com/galaxiafn.co.uk/4.5.zip | https://builds.rebootfn.org/4.5.rar |
+| 4.50 (4.5-CL-4159770) | https://builds.rebootfn.org/4.5.rar |
 | 4.50.1 (4.5-CL-4166199) | Lost |
 
 ## Season 5
@@ -245,7 +243,7 @@ A build collection like no other.
 | 5.30 (5.30-CL-4305896) | https://builds.rebootfn.org/5.30.rar |
 | 5.40 (5.40-CL-4351695) | Lost |
 | 5.40.1 (5.40-CL-4352937) | https://builds.rebootfn.org/5.40.rar |
-| 5.41 (5.41-CL-4363240) | https://storage.googleapis.com/galaxiafn.co.uk/5.41.zip | https://public-build-archives-bucket.erafn.dev/5.41.zip |
+| 5.41 (5.41-CL-4363240) | https://public-build-archives-bucket.erafn.dev/5.41.zip |
 
 ## Season 6
 | Build | Download | Alternative Download | Alternative Download
@@ -261,7 +259,7 @@ A build collection like no other.
 | 6.10.2 (6.10-CL-4480234) (EXC) | https://builds.rebootfn.org/6.10.2.rar |
 | 6.20 (6.20-CL-4497486) | https://gofile.io/d/7P7IBT |
 | 6.20.1 (6.20-CL-4504220) | Lost |
-| 6.21 (6.21-CL-4526925) | https://builds.rebootfn.org/6.21.rar | https://storage.googleapis.com/galaxiafn.co.uk/6.21.zip |
+| 6.21 (6.21-CL-4526925) | https://builds.rebootfn.org/6.21.rar |
 | 6.21.1 (6.21-CL-4531851) | Lost |
 | 6.22 (6.22-CL-4541220) | Lost |
 | 6.22.1 (6.22-CL-4543176) | https://builds.rebootfn.org/6.22.rar |
@@ -271,18 +269,18 @@ A build collection like no other.
 ## Season 7
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 7.00 (7.00-CL-4629139) | https://builds.rebootfn.org/7.00.rar | https://storage.googleapis.com/galaxiafn.co.uk/7.00.zip |
+| 7.00 (7.00-CL-4629139) | https://builds.rebootfn.org/7.00.rar |
 | 7.01 (7.01-CL-4648651) | Lost |
 | 7.10 (7.10-CL-4667333) (EXC) | https://builds.rebootfn.org/7.10.rar |
 | 7.20 (7.20-CL-4716934) | Lost |
 | 7.20.1 (7.20-CL-4727874) | https://builds.rebootfn.org/7.20.rar |
 | 7.30 (7.30-CL-4821335) | Lost |
-| 7.30.1 (7.30-CL-4834550) | https://builds.rebootfn.org/7.30.zip | https://storage.googleapis.com/galaxiafn.co.uk/7.30.zip |
+| 7.30.1 (7.30-CL-4834550) | https://builds.rebootfn.org/7.30.zip |
 | 7.30.2 (7.30-CL-4869070) | Lost |
 | 7.40 (7.40-CL-4980899) | Lost |
 | 7.40.1 (7.40-CL-4996168) | Lost |
 | 7.40.2 (7.40-CL-5012948) | Lost |
-| 7.40.3 (7.40-CL-5046157) | https://builds.rebootfn.org/7.40.rar | https://storage.googleapis.com/galaxiafn.co.uk/7.40.zip | https://gofile.io/d/cw0eee |
+| 7.40.3 (7.40-CL-5046157) | https://builds.rebootfn.org/7.40.rar | https://gofile.io/d/cw0eee |
 
 ## Season 8
 | Build | Download | Alternative Download | Alternative Download
@@ -301,8 +299,8 @@ A build collection like no other.
 | 8.30.2 (8.30-CL-5831510) | Lost |
 | 8.40 (8.40-CL-5914491) | Lost |
 | 8.40.1 (8.40-CL-6005771) | https://builds.rebootfn.org/8.40.zip | https://archive.org/download/Fortnite-8.40-CL-6005771.zip/8.40-CL-6005771.zip |
-| 8.50 (8.50-CL-6058028) | https://builds.rebootfn.org/8.50.zip | https://storage.googleapis.com/galaxiafn.co.uk/8.50.zip |
-| 8.51 (8.51-CL-6165369) | https://builds.rebootfn.org/8.51.rar | https://storage.googleapis.com/galaxiafn.co.uk/8.51.zip |
+| 8.50 (8.50-CL-6058028) | https://builds.rebootfn.org/8.50.zip |
+| 8.51 (8.51-CL-6165369) | https://builds.rebootfn.org/8.51.rar |
 
 ## Season 9
 | Build | Download | Alternative Download | Alternative Download
@@ -311,14 +309,14 @@ A build collection like no other.
 | 9.01 (9.01-CL-6428087) | https://builds.rebootfn.org/9.01.zip |
 | 9.10 (9.10-CL-6573057) | Lost |
 | 9.10.1 (9.10-CL-6616201) | Lost |
-| 9.10.2 (9.10-CL-6639283) | https://builds.rebootfn.org/9.10.rar | https://storage.googleapis.com/galaxiafn.co.uk/9.10.zip | https://cdn.solarisfn.dev/Builds/9.10.zip |
+| 9.10.2 (9.10-CL-6639283) | https://builds.rebootfn.org/9.10.rar | https://cdn.solarisfn.dev/Builds/9.10.zip |
 | 9.20 (9.20-CL-6822798) | Unavailable |
 | 9.21 (9.21-CL-6922310) | https://builds.rebootfn.org/9.21.zip |
 | 9.30 (9.30-CL-7021684) | Lost | 
 | 9.30.1 (9.30-CL-7095426) | https://builds.rebootfn.org/9.30.zip |
 | 9.40 (9.40-CL-7315705) | https://builds.rebootfn.org/9.40.zip |
 | 9.41 (9.41-CL-7463579) | Lost |
-| 9.41.1 (9.41-CL-7609292) | https://builds.rebootfn.org/9.41.rar | https://storage.googleapis.com/galaxiafn.co.uk/9.41.zip |
+| 9.41.1 (9.41-CL-7609292) | https://builds.rebootfn.org/9.41.rar |
 
 ## Season 10
 | Build | Download | Alternative Download | Alternative Download
@@ -333,13 +331,13 @@ A build collection like no other.
 | 10.31 (10.31-CL-8723043) | https://builds.rebootfn.org/10.31.zip |
 | 10.40 (10.40-CL-8970213) | Lost |
 | 10.40.1 (10.40-CL-9302865) | Lost |
-| 10.40.2 (10.40-CL-9380822) | https://storage.googleapis.com/galaxiafn.co.uk/10.40.zip | https://gofile.io/d/7eltEw | https://archive.org/download/Fortnite-10.40-CL-9380822.rar/10.40-CL-9380822.rar |
+| 10.40.2 (10.40-CL-9380822) (EXC) | https://gofile.io/d/7eltEw | https://archive.org/download/Fortnite-10.40-CL-9380822.rar/10.40-CL-9380822.rar |
 
 ## Season 11
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 11.00-CL-9562734 | https://gofile.io/d/K664o5 | https://archive.org/download/Fortnite-11.00-CL-9562734.7z/11.00-CL-9562734.7z |
-| 11.00-CL-9603448 | https://storage.googleapis.com/galaxiafn.co.uk/11.00.zip |
+| 11.00-CL-9603448 | Unavailable |
 | 11.01-CL-9728272 | Unavailable |
 | 11.10-CL-9844520 | Unavailable |
 | 11.10-CL-9901083 | Unavailable |
@@ -372,7 +370,7 @@ A build collection like no other.
 | 12.30-CL-12493283 | Unavailable |
 | 12.30-CL-12624643 | Lost |
 | 12.40-CL-12837456 | https://gofile.io/d/uI0sIA | https://gofile.io/d/SoXAvR |
-| 12.41-CL-12905909 | https://fnbuilds.boostedv2.dev/files/12.41.rar | https://storage.googleapis.com/galaxiafn.co.uk/12.41.zip | https://gofile.io/d/kUD38p |
+| 12.41-CL-12905909 | https://fnbuilds.boostedv2.dev/files/12.41.rar | https://gofile.io/d/kUD38p | https://42.gigafile.nu/download.php?file=0716-ma9aa8265d210f8175aea8c9b20d50f71 |
 | 12.50-CL-13044369 | Lost |
 | 12.50-CL-13137020 (EXC) | https://42.gigafile.nu/download.php?file=0716-hae9d417058a5c3b17624bc7c30efe0a3 |
 | 12.50-CL-13193885 | Lost |
@@ -411,7 +409,7 @@ A build collection like no other.
 | 14.50-CL-14643651 | https://gofile.io/d/7P7IBT |
 | 14.60-CL-14756138 | Lost |
 | 14.60-CL-14785135 | Lost |
-| 14.60-CL-14786821 | https://storage.googleapis.com/galaxiafn.co.uk/14.60.zip | https://gofile.io/d/GsHslZ | https://buzzheavier.com/ao5le9jy6brh |
+| 14.60-CL-14786821 | https://gofile.io/d/GsHslZ | https://buzzheavier.com/ao5le9jy6brh |
 
 ## Season 15
 | Build | Download | Alternative Download | Alternative Download
@@ -426,12 +424,12 @@ A build collection like no other.
 | 15.21-CL-15083856 | Unavailable |
 | 15.30-CL-15233634 | Lost |
 | 15.30-CL-15316852 | Lost |
-| 15.30-CL-15341163 | https://storage.googleapis.com/galaxiafn.co.uk/15.30.zip | https://r2.ploosh.dev/15.30.zip |
+| 15.30-CL-15341163 | https://r2.ploosh.dev/15.30.zip |
 | 15.40-CL-15385160 | Status Pending |
 | 15.40-CL-15419568 | Status Pending |
 | 15.40-CL-15424013 | Status Pending |
 | 15.40-CL-15496915 | Status Pending |
-| 15.50-CL-15526472 (EXC) | https://storage.googleapis.com/galaxiafn.co.uk/15.50.zip | https://gofile.io/d/azUtJZ |
+| 15.50-CL-15526472 (EXC) | https://gofile.io/d/azUtJZ |
 | 15.50-CL-15570449 | Unavailable |
 
 ## Season 16
@@ -448,8 +446,8 @@ A build collection like no other.
 | 16.20-CL-16042441 | https://gofile.io/d/ntSFCe | https://gofile.io/d/vFwpNN |
 | 16.30-CL-16086208 | Lost |
 | 16.30-CL-16163563 (EXC) | Text Archive Exclusive |
-| 16.40-CL-16218553 | https://storage.googleapis.com/galaxiafn.co.uk/16.40.zip | https://gofile.io/d/LvLdwV |
-| 16.50-CL-16432754 (EXC) | https://storage.googleapis.com/galaxiafn.co.uk/16.50.zip |
+| 16.40-CL-16218553 | https://gofile.io/d/LvLdwV |
+| 16.50-CL-16432754 (EXC) | Text Archive Exclusive |
 | 16.50-CL-16469788 | https://gofile.io/d/hH8XAn |
 
 ## Season 17
@@ -479,7 +477,7 @@ A build collection like no other.
 | 18.20-CL-17792290 | https://gofile.io/d/ikpxzV |
 | 18.21-CL-17811397 | https://gofile.io/d/ikpxzV |
 | 18.30-CL-17882303 | https://gofile.io/d/luD2FP |
-| 18.40-CL-18163738 | https://storage.googleapis.com/galaxiafn.co.uk/18.40.zip |
+| 18.40-CL-18163738 | Unavailable |
 
 ## Season 19
 | Build | Download | Alternative Download | Alternative Download
@@ -490,12 +488,12 @@ A build collection like no other.
 | 19.01-CL-18489740 | https://r2.ploosh.dev/19.01.zip | https://archive.org/download/Fortnite-19.01-CL-18489740.zip/19.01-CL-18489740.zip |
 | 19.10-CL-18581131 | Lost |
 | 19.10-CL-18640491 | Lost |
-| 19.10-CL-18675304 | https://storage.googleapis.com/galaxiafn.co.uk/19.10.zip | https://public-service-live.ol.privateuser.xyz/19.10_final.rar | https://buzzheavier.com/hw5lrxtpg3dh |
+| 19.10-CL-18675304 | https://public-service-live.ol.privateuser.xyz/19.10_final.rar | https://buzzheavier.com/hw5lrxtpg3dh |
 | 19.20-CL-18775446 | https://gofile.io/d/lm76o4 |
 | 19.30-CL-18948597 | Lost |
 | 19.30-CL-19027703 | https://gofile.io/d/KlhJTG |
 | 19.40-CL-19167615 | Lost |
-| 19.40-CL-19215531 | https://storage.googleapis.com/galaxiafn.co.uk/19.40.zip | https://gofile.io/d/QDahzx |
+| 19.40-CL-19215531 | https://gofile.io/d/QDahzx |
 
 ## Season 20
 | Build | Download | Alternative Download | Alternative Download
@@ -505,7 +503,7 @@ A build collection like no other.
 | 20.10-CL-19598943 | https://gofile.io/d/SPLUZm |
 | 20.20-CL-19751212 | https://gofile.io/d/SPLUZm |
 | 20.20-CL-19896998 | Lost |
-| 20.30-CL-19950687 | https://storage.googleapis.com/galaxiafn.co.uk/20.30.zip | https://gofile.io/d/gBUbgS |
+| 20.30-CL-19950687 | https://gofile.io/d/gBUbgS |
 | 20.30-CL-20037261 | Lost |
 | 20.40-CL-20175294 | Lost |
 | 20.40-CL-20244966 | Unavailable |
@@ -704,18 +702,27 @@ A build collection like no other.
 |--------------|---------------|---------------|---------------|
 | 36.00-CL-43214806 | Manifest Available |
 | 36.00-CL-43339403 | Manifest Available |
-| 36.10-CL-43486998 | Current |
+| 36.10-CL-43486998 | Manifest Available |
+| 36.10-CL-43713507 | Current |
 
 ## Other
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| QAGame | https://gofile.io/d/KEV3wO |
-| Main-CL-21452241 (Xbox One, Xbox One) | https://gofile.io/d/6fwioK | https://gofile.io/d/3i3wpw |
+| QAGame UE4.11 | https://gofile.io/d/KEV3wO |
+| QAGame UE5.2 | https://gofile.io/d/6iu2BM |
+| Main-CL-21452241 (Xbox One, Xbox One) | https://gofile.io/d/6fwioKe | https://gofile.io/d/3i3wpw |
+| Main-CL-28341801 | Unavailable |
+| CL-28377429 | Unavailable |
+| Dev-FN-28-CL-29240853 | Unavailable |
+| Dev-FN-28-CL-30533206 | Unavailable |
+| Dev-Feral-CL-37060352 | Unavailable |
 
 <details open>
   <summary><h2>Small Contributors</h2></summary>
 
  [ImagineThisGuy](https://github.com/ImagineThisGuy2): 10.40-CL-9380822
+
+ minilun4r: 10.40-CL-9380822 (Text Archive Exclusive)
 
  [Repressoh](https://github.com/Repressoh): 14.60-CL-14786821, 19.10-CL-18675304
 
@@ -726,6 +733,8 @@ A build collection like no other.
  [Sensei Usagi](https://x.com/Sensei__Usagi): 30.20-CL-34488544 (Text Archive Exclusive)
 
  [WildFurball](https://www.youtube.com/channel/UCysnqc0X_aJNRpURVTjOgrw): 32.11-CL-38202817 (Text Archive Exclusive)
+
+ entertainedbird42: QAGame UE5.2
 
 </details>
 
