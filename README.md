@@ -7,7 +7,7 @@ A build collection like no other.
 <details open>
   <summary><h1>Fortnite Builds Text Archive</h1></summary>
 
- If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/53os1hh0m1thuoogsnb2r/Fortnite-Builds-Text-Archive-22.00.txt?rlkey=m4wmhtah6u8u5aozkvjfmbpje&st=97dncess&dl=0)
+ If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/rjqvz1phz7of0d2i3en97/Fortnite-Builds-Text-Archive-22.01.txt?rlkey=a30y5fmv5byzwojdlty1k1s6z&st=ktytijps&dl=0)
 
  Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -44,7 +44,7 @@ A build collection like no other.
 
   [ploosh](https://github.com/plooshi): 15.30-CL-15341163, 19.01-CL-18489740, 21.00-CL-20463113, 24.20-CL-24939793, 26.30-CL-28509302
 
-  [Timmy](https://github.com/timjans01): 20.00-CL-19458861, 20.10-CL-19598943, 20.20-CL-19751212
+  [Timmy](https://github.com/timjans01): 9.20-CL-6822798, 13.20-CL-13777676, 15.10-CL-15014719, 17.30-CL-17004569, 18.40-CL-18163738, 19.30-CL-19027703, 20.00-CL-19458861, 20.10-CL-19598943, 20.20-CL-19751212, 20.40-CL-20244966, 23.10-CL-23572221
 
   All small contributors (contributors of 2 or less builds) will go towards the bottom and large contributors (contributors of 3 or more builds) will go towards the top
 
@@ -314,7 +314,7 @@ A build collection like no other.
 | 9.10 (9.10-CL-6573057) | Lost |
 | 9.10.1 (9.10-CL-6616201) | Lost |
 | 9.10.2 (9.10-CL-6639283) | https://public.simplyblk.xyz/9.10.rar | https://builds.rebootfn.org/9.10.rar | https://cdn.solarisfn.dev/Builds/9.10.zip |
-| 9.20 (9.20-CL-6822798) | https://public.simplyblk.xyz/9.20.rar |
+| 9.20 (9.20-CL-6822798) | https://public.simplyblk.xyz/9.20.rar | https://cdn.cbn.lol/9.20 |
 | 9.21 (9.21-CL-6922310) | https://public.simplyblk.xyz/9.21.zip | https://builds.rebootfn.org/9.21.zip |
 | 9.30 (9.30-CL-7021684) | Lost | 
 | 9.30.1 (9.30-CL-7095426) | https://public.simplyblk.xyz/9.30.zip | https://builds.rebootfn.org/9.30.zip |
@@ -388,7 +388,7 @@ A build collection like no other.
 | 13.00-CL-13649278 | https://public.simplyblk.xyz/13.00.rar |
 | 13.00-CL-13696059 | Lost |
 | 13.00-CL-13715544 | Lost |
-| 13.20-CL-13777676 | https://public.simplyblk.xyz/13.20.rar | https://gofile.io/d/sG8jrF |
+| 13.20-CL-13777676 | https://public.simplyblk.xyz/13.20.rar | https://cdn.cbn.lol/13.20 | https://gofile.io/d/sG8jrF |
 | 13.30-CL-13884634 | https://public.simplyblk.xyz/13.30.rar | https://gofile.io/d/NnGBTe | https://gofile.io/d/dYo46m |
 | 13.40-CL-14008768 | Lost |
 | 13.40-CL-14036559 | Unavailable |
@@ -422,7 +422,7 @@ A build collection like no other.
 | 15.00-CL-14835335 | Unavailable |
 | 15.10-CL-14904303 | Lost |
 | 15.10-CL-14937640 | Lost |
-| 15.10-CL-15014719 | Unavailable |
+| 15.10-CL-15014719 | https://cdn.cbn.lol/15.10 |
 | 15.20-CL-15033494 | Lost |
 | 15.20-CL-15070882 | https://public.simplyblk.xyz/15.20.rar | https://gofile.io/d/0bOa7W |
 | 15.21-CL-15083856 | Unavailable |
@@ -464,7 +464,7 @@ A build collection like no other.
 | 17.20-CL-16868155 | Unavailable |
 | 17.21-CL-16949556 | Lost |
 | 17.21-CL-16967001 | Unavailable |
-| 17.30-CL-17004569 | https://public.simplyblk.xyz/17.30.zip | https://cdn.fortmp.dev/17.30.zip |
+| 17.30-CL-17004569 | https://public.simplyblk.xyz/17.30.zip | https://cdn.fortmp.dev/17.30.zip | https://cdn.cbn.lol/17.30 |
 | 17.40-CL-17215766 | Lost |
 | 17.40-CL-17269705 | Unavailable |
 | 17.50-CL-17328477 | Lost |
@@ -481,7 +481,7 @@ A build collection like no other.
 | 18.20-CL-17792290 | https://gofile.io/d/ikpxzV |
 | 18.21-CL-17811397 | https://gofile.io/d/ikpxzV |
 | 18.30-CL-17882303 | https://public.simplyblk.xyz/18.30.7z | https://gofile.io/d/luD2FP |
-| 18.40-CL-18163738 | https://public.simplyblk.xyz/18.40.zip | https://galaxiafn.co.uk/18.40.zip |
+| 18.40-CL-18163738 | https://public.simplyblk.xyz/18.40.zip | https://galaxiafn.co.uk/18.40.zip | https://cdn.cbn.lol/18.40 |
 
 ## Season 19
 | Build | Download | Alternative Download | Alternative Download
@@ -495,7 +495,7 @@ A build collection like no other.
 | 19.10-CL-18675304 | https://public.simplyblk.xyz/19.10.rar | https://galaxiafn.co.uk/19.10.zip | https://public-service-live.ol.privateuser.xyz/19.10_final.rar |
 | 19.20-CL-18775446 | https://gofile.io/d/lm76o4 |
 | 19.30-CL-18948597 | Lost |
-| 19.30-CL-19027703 | https://public.simplyblk.xyz/19.30.rar | https://gofile.io/d/KlhJTG |
+| 19.30-CL-19027703 | https://public.simplyblk.xyz/19.30.rar | https://cdn.cbn.lol/19.30 | https://gofile.io/d/KlhJTG |
 | 19.40-CL-19167615 | Lost |
 | 19.40-CL-19215531 | https://public.simplyblk.xyz/19.40.7z | https://galaxiafn.co.uk/19.40.zip | https://gofile.io/d/QDahzx |
 
@@ -510,7 +510,7 @@ A build collection like no other.
 | 20.30-CL-19950687 | https://galaxiafn.co.uk/20.30.zip | https://gofile.io/d/gBUbgS |
 | 20.30-CL-20037261 | Lost |
 | 20.40-CL-20175294 | Lost |
-| 20.40-CL-20244966 | https://public.simplyblk.xyz/20.40.zip |
+| 20.40-CL-20244966 | https://public.simplyblk.xyz/20.40.zip | https://cdn.cbn.lol/20.40 |
 
 ## Season 21
 | Build | Download | Alternative Download | Alternative Download
@@ -550,7 +550,7 @@ A build collection like no other.
 |--------------|---------------|---------------|---------------|
 | 23.00-CL-23344627 | https://public.simplyblk.xyz/23.00.7z | https://42.gigafile.nu/download.php?file=0717-f49e08dada498c5c7a9dcc398f40462ca |
 | 23.10-CL-23443094 | https://public.simplyblk.xyz/23.10.rar | https://gofile.io/d/7BSdQ6 |
-| 23.10-CL-23572221 | https://42.gigafile.nu/download.php?file=0717-k6d165e0d5f2cdebc16ad74cd11557432 |
+| 23.10-CL-23572221 | https://cdn.cbn.lol/23.10 | https://42.gigafile.nu/download.php?file=0717-k6d165e0d5f2cdebc16ad74cd11557432 |
 | 23.20-CL-23659353 | Lost |
 | 23.20-CL-23783097 | https://gofile.io/d/Z6b74U | https://42.gigafile.nu/download.php?file=0717-ead9fa64f503b29a7cc5e6474c09f3445 |
 | 23.30-CL-23901854 | Lost |
