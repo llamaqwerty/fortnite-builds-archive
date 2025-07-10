@@ -7,7 +7,7 @@ A build collection like no other.
 <details open>
   <summary><h1>Fortnite Builds Text Archive</h1></summary>
 
- If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/rjqvz1phz7of0d2i3en97/Fortnite-Builds-Text-Archive-22.01.txt?rlkey=a30y5fmv5byzwojdlty1k1s6z&st=ktytijps&dl=0)
+ If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/f1czlhpbg5to3qxymcml1/Fortnite-Builds-Text-Archive-22.10.txt?rlkey=iwwnydx05avvl2319a5kmhv21&st=qkbs13pl&dl=0)
 
  Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -40,11 +40,11 @@ A build collection like no other.
 
   [Aorux](https://www.youtube.com/channel/UCuwn6IZv299qUyYI_5cM8yg): 18.10-CL-17661844, 18.20-CL-17792290, 18.21-CL-17811397
 
-  [ka pum](https://x.com/KPMisParrot): 14.30-CL-14456520, 20.30-CL-19950687, 25.00-CL-25784668, 31.40-CL-36874825, QAGame
+  [ka pum](https://x.com/KPMisParrot): 12.60-CL-13477524, 14.30-CL-14456520, 20.30-CL-19950687, 25.00-CL-25784668, 31.40-CL-36874825, QAGame UE4.11
 
   [ploosh](https://github.com/plooshi): 15.30-CL-15341163, 19.01-CL-18489740, 21.00-CL-20463113, 24.20-CL-24939793, 26.30-CL-28509302
 
-  [Timmy](https://github.com/timjans01): 9.20-CL-6822798, 13.20-CL-13777676, 15.10-CL-15014719, 17.30-CL-17004569, 18.40-CL-18163738, 19.30-CL-19027703, 20.00-CL-19458861, 20.10-CL-19598943, 20.20-CL-19751212, 20.40-CL-20244966, 23.10-CL-23572221
+  [Timmy](https://github.com/timjans01): 6.20-CL-4497486, 9.20-CL-6822798, 11.20-CL-10297577, 11.50-CL-11265652, 13.20-CL-13777676, 14.10-CL-14312695, 14.20-CL-14384759, 14.50-CL-14643651, 15.10-CL-15014719, 17.00-CL-16593740, 17.30-CL-17004569, 17.40-CL-17269705, 18.10-CL-17661844, 18.20-CL-17745267, 18.40-CL-18163738, 19.30-CL-19027703, 20.00-CL-19458861, 20.10-CL-19598943, 20.20-CL-19751212, 20.30-CL-19950687, 20.40-CL-20244966, 21.20-CL-20978394, 21.30-CL-21155462, 21.40-CL-21407327, 22.10-CL-22429549, 23.10-CL-23572221
 
   All small contributors (contributors of 2 or less builds) will go towards the bottom and large contributors (contributors of 3 or more builds) will go towards the top
 
@@ -261,7 +261,7 @@ A build collection like no other.
 | 6.10 (6.10-CL-4464155) | https://public.simplyblk.xyz/6.10.rar | https://builds.rebootfn.org/6.10.rar |
 | 6.10.1 (6.10-CL-4476098) (EXC) | https://public.simplyblk.xyz/6.10.1.rar | https://builds.rebootfn.org/6.10.1.rar |
 | 6.10.2 (6.10-CL-4480234) (EXC) | https://public.simplyblk.xyz/6.10.2.rar | https://builds.rebootfn.org/6.10.2.rar |
-| 6.20 (6.20-CL-4497486) | https://gofile.io/d/7P7IBT |
+| 6.20 (6.20-CL-4497486) | https://cdn.cbn.lol/6.20 | https://gofile.io/d/7P7IBT |
 | 6.20.1 (6.20-CL-4504220) | Lost |
 | 6.21 (6.21-CL-4526925) | https://public.simplyblk.xyz/6.21.rar | https://builds.rebootfn.org/6.21.rar | https://galaxiafn.co.uk/6.21.zip |
 | 6.21.1 (6.21-CL-4531851) | Lost |
@@ -346,7 +346,7 @@ A build collection like no other.
 | 11.10-CL-9844520 | Unavailable |
 | 11.10-CL-9901083 | Unavailable |
 | 11.11-CL-10082788 | Unavailable |
-| 11.20-CL-10297577 | https://gofile.io/d/7P7IBT |
+| 11.20-CL-10297577 | https://cdn.cbn.lol/11.20 | https://gofile.io/d/7P7IBT |
 | 11.20-CL-10328358 | Lost |
 | 11.21-CL-10481509 | Unavailable |
 | 11.30-CL-10639804 | Lost |
@@ -358,7 +358,7 @@ A build collection like no other.
 | 11.40-CL-11039906 | Unavailable |
 | 11.40-CL-11109625 | Lost |
 | 11.50-CL-11204868 | Lost |
-| 11.50-CL-11265652 | https://gofile.io/d/7P7IBT |
+| 11.50-CL-11265652 | https://cdn.cbn.lol/11.50 | https://gofile.io/d/7P7IBT |
 
 ## Season 12
 | Build | Download | Alternative Download | Alternative Download
@@ -379,7 +379,7 @@ A build collection like no other.
 | 12.50-CL-13137020 (EXC) | https://public.simplyblk.xyz/12.50.zip | https://42.gigafile.nu/download.php?file=0716-hae9d417058a5c3b17624bc7c30efe0a3 |
 | 12.50-CL-13193885 | Lost |
 | 12.60-CL-13315662 | Lost |
-| 12.60-CL-13477524 | Unavailable |
+| 12.60-CL-13477524 | https://gofile.io/d/qD47Xu |
 | 12.61-CL-13498980 | https://public.simplyblk.xyz/12.61.zip | https://42.gigafile.nu/download.php?file=0716-e150bfea1e3e1e97bebef85f04add9374 |
 
 ## Season 13
@@ -402,15 +402,15 @@ A build collection like no other.
 | 14.00-CL-14211474 | https://public.simplyblk.xyz/14.00.rar |
 | 14.10-CL-14276912 | Lost |
 | 14.10-CL-14288110 | Lost |
-| 14.10-CL-14312695 | https://gofile.io/d/7P7IBT |
+| 14.10-CL-14312695 | https://cdn.cbn.lol/14.10 | https://gofile.io/d/7P7IBT |
 | 14.20-CL-14354056 | Lost |
 | 14.20-CL-14375974 | Lost |
-| 14.20-CL-14384759 | https://gofile.io/d/7P7IBT |
+| 14.20-CL-14384759 | https://cdn.cbn.lol/14.20 | https://gofile.io/d/7P7IBT |
 | 14.30-CL-14456520 | https://cdn.solarisfn.dev/Builds/14.30.zip | https://gofile.io/d/47NC7f |
 | 14.40-CL-14512399 | Lost |
 | 14.40-CL-14550713 | https://public.simplyblk.xyz/14.40.rar | https://cdn.solarisfn.dev/Builds/14.40.rar |
 | 14.50-CL-14617811 | Lost |
-| 14.50-CL-14643651 | https://gofile.io/d/7P7IBT |
+| 14.50-CL-14643651 | https://cdn.cbn.lol/14.50 | https://gofile.io/d/7P7IBT |
 | 14.60-CL-14756138 | Lost |
 | 14.60-CL-14785135 | Lost |
 | 14.60-CL-14786821 | https://public.simplyblk.xyz/14.60.rar | https://galaxiafn.co.uk/14.60.zip | https://buzzheavier.com/ao5le9jy6brh |
@@ -458,7 +458,7 @@ A build collection like no other.
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 17.00-CL-16555138 | Lost |
-| 17.00-CL-16593740 | https://gofile.io/d/7P7IBT |
+| 17.00-CL-16593740 | https://cdn.cbn.lol/17.00 | https://gofile.io/d/7P7IBT |
 | 17.10-CL-16701187 | Lost |
 | 17.10-CL-16745144 | https://public.simplyblk.xyz/17.10.rar | https://gofile.io/d/BXSeEe |
 | 17.20-CL-16868155 | Unavailable |
@@ -466,7 +466,7 @@ A build collection like no other.
 | 17.21-CL-16967001 | Unavailable |
 | 17.30-CL-17004569 | https://public.simplyblk.xyz/17.30.zip | https://cdn.fortmp.dev/17.30.zip | https://cdn.cbn.lol/17.30 |
 | 17.40-CL-17215766 | Lost |
-| 17.40-CL-17269705 | Unavailable |
+| 17.40-CL-17269705 | https://cdn.cbn.lol/17.40 |
 | 17.50-CL-17328477 | Lost |
 | 17.50-CL-17388565 (EXC) | https://public.simplyblk.xyz/17.50.zip |
 
@@ -476,8 +476,8 @@ A build collection like no other.
 | 18.00-CL-17468642 (EXC) | https://public.simplyblk.xyz/18.00.rar |
 | 18.00-CL-17519952 | Unavailable |
 | 18.10-CL-17619277 | Unavailable |
-| 18.10-CL-17661844 | https://gofile.io/d/ikpxzV |
-| 18.20-CL-17745267 | Lost |
+| 18.10-CL-17661844 | https://cdn.cbn.lol/18.10 | https://gofile.io/d/ikpxzV |
+| 18.20-CL-17745267 | https://cdn.cbn.lol/18.20 |
 | 18.20-CL-17792290 | https://gofile.io/d/ikpxzV |
 | 18.21-CL-17811397 | https://gofile.io/d/ikpxzV |
 | 18.30-CL-17882303 | https://public.simplyblk.xyz/18.30.7z | https://gofile.io/d/luD2FP |
@@ -507,7 +507,7 @@ A build collection like no other.
 | 20.10-CL-19598943 | https://public.simplyblk.xyz/20.10.zip | https://gofile.io/d/SPLUZm |
 | 20.20-CL-19751212 | https://public.simplyblk.xyz/20.20.zip | https://gofile.io/d/SPLUZm |
 | 20.20-CL-19896998 | Lost |
-| 20.30-CL-19950687 | https://galaxiafn.co.uk/20.30.zip | https://gofile.io/d/gBUbgS |
+| 20.30-CL-19950687 | https://cdn.cbn.lol/20.30 | https://galaxiafn.co.uk/20.30.zip | https://gofile.io/d/gBUbgS |
 | 20.30-CL-20037261 | Lost |
 | 20.40-CL-20175294 | Lost |
 | 20.40-CL-20244966 | https://public.simplyblk.xyz/20.40.zip | https://cdn.cbn.lol/20.40 |
@@ -522,12 +522,12 @@ A build collection like no other.
 | 21.10-CL-20777648 | Lost |
 | 21.10-CL-20829351 | Lost |
 | 21.20-CL-20890025 | Unavailable |
-| 21.20-CL-20978394 | https://gofile.io/d/IdQeCy | https://42.gigafile.nu/download.php?file=0717-hdb774be16224ae87a68bcd90dd74cd55 |
+| 21.20-CL-20978394 | https://cdn.cbn.lol/21.20 | https://gofile.io/d/IdQeCy | https://42.gigafile.nu/download.php?file=0717-hdb774be16224ae87a68bcd90dd74cd55 |
 | 21.20-CL-21035704 | Unavailable |
 | 21.30-CL-21102315 | Lost |
-| 21.30-CL-21155462 | https://gofile.io/d/Wxi5Am | https://42.gigafile.nu/download.php?file=0717-mc301100de2f83bb42ee426a177a3010d |
+| 21.30-CL-21155462 | https://cdn.cbn.lol/21.30 | https://gofile.io/d/Wxi5Am | https://42.gigafile.nu/download.php?file=0717-mc301100de2f83bb42ee426a177a3010d |
 | 21.40-CL-21348157 | Lost |
-| 21.40-CL-21407327 | https://42.gigafile.nu/download.php?file=0717-nf806594f0db62ad8be74a7299a148115 |
+| 21.40-CL-21407327 | https://cdn.cbn.lol/21.40 | https://42.gigafile.nu/download.php?file=0717-nf806594f0db62ad8be74a7299a148115 |
 | 21.50-CL-21657658 | https://public.simplyblk.xyz/21.50.zip | https://gofile.io/d/3ud3OS |
 | 21.51-CL-21735703 | https://public.simplyblk.xyz/21.51.7z | https://42.gigafile.nu/download.php?file=0717-m8ae45a407b35f1c263d0d4e79ef79c48 |
 
@@ -539,7 +539,7 @@ A build collection like no other.
 | 22.00-CL-22107157 | Lost |
 | 22.00-CL-22149829 | https://public.simplyblk.xyz/22.00.7z | https://42.gigafile.nu/download.php?file=0717-i55f071c2d07726bedbf8d48cae28bb8b |
 | 22.10-CL-22240570 | Lost |
-| 22.10-CL-22429549 | https://gofile.io/d/gK7bpk | https://42.gigafile.nu/download.php?file=0717-j761f238acee7d600f7a4445e17438018 |
+| 22.10-CL-22429549 | https://cdn.cbn.lol/22.10 | https://gofile.io/d/gK7bpk | https://42.gigafile.nu/download.php?file=0717-j761f238acee7d600f7a4445e17438018 |
 | 22.20-CL-22523251 | Lost |
 | 22.20-CL-22600409 | https://42.gigafile.nu/download.php?file=0717-hac84002d06c82caaa31ec65e4811038f |
 | 22.30-CL-22803135 | Unavailable |
@@ -638,7 +638,7 @@ A build collection like no other.
 | 30.10-CL-34184790 | Unavailable |
 | 30.10-CL-34261954 | https://42.gigafile.nu/download.php?file=0717-effb1a59382144720b50a0014723c9b1 |
 | 30.10-CL-34399867 | Unavailable |
-| 30.20-CL-34488544 (EXC) | Text Archive Exclusive |
+| 30.20-CL-34488544 | Unavailable |
 | 30.20-CL-34597766 | https://42.gigafile.nu/download.php?file=0717-l86451f04f0381003624be5e20f8e8da0 |
 | 30.30-CL-34891016 | https://42.gigafile.nu/download.php?file=0717-j8f27700cd242de96fa4742718cc23aa0 | https://gofile.io/d/nhq0Mz | https://gofile.io/d/Mii9N6 |
 | 30.40-CL-35235494 | https://42.gigafile.nu/download.php?file=0717-n1afa661f476d1df999f19006b0718eaf |
@@ -683,7 +683,7 @@ A build collection like no other.
 | 34.00-CL-40228973 | Unavailable |
 | 34.00-CL-40398515 | Unavailable |
 | 34.00-CL-40446427 | Lost |
-| 34.10-CL-40567068 | https://drive.google.com/file/d/19Deve2k8YjZ6qZCcNAKzcf5yxqwZY_WG/view | https://42.gigafile.nu/download.php?file=0717-j393bdf4cdb427fd046270573d1f75bc0 |
+| 34.10-CL-40567068 (EXC) | https://42.gigafile.nu/download.php?file=0717-j393bdf4cdb427fd046270573d1f75bc0 |
 | 34.20-CL-40965447 | https://42.gigafile.nu/download.php?file=0717-k22cacca6ad8fa6c08e64c6017890b0e6 |
 | 34.21-CL-41092960 | Manifest Available |
 | 34.30-CL-41387772 | Manifest Available |
@@ -713,7 +713,7 @@ A build collection like no other.
 |--------------|---------------|---------------|---------------|
 | QAGame UE4.11 | https://gofile.io/d/KEV3wO |
 | QAGame UE5.2 | https://gofile.io/d/6iu2BM |
-| Main-CL-21452241 (Xbox One, Xbox One) | https://gofile.io/d/6fwioKe | https://gofile.io/d/3i3wpw |
+| Main-CL-21452241 (Xbox One) | https://gofile.io/d/4c7dWb |
 
 <details open>
   <summary><h2>Small Contributors</h2></summary>
@@ -727,8 +727,6 @@ A build collection like no other.
  [PrivateUser](https://privateuser.xyz/): 19.10-CL-18675304
 
  [Snoopy](https://x.com/Snoopity_Dog420): 28.00-CL-29915848
-
- [Sensei Usagi](https://x.com/Sensei__Usagi): 30.20-CL-34488544 (Text Archive Exclusive)
 
  [WildFurball](https://www.youtube.com/channel/UCysnqc0X_aJNRpURVTjOgrw): 32.11-CL-38202817 (Text Archive Exclusive)
 
@@ -751,4 +749,4 @@ A build collection like no other.
 
 </details>
 
-For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno (Do not use for downloading builds, it is super outdated and messed up. Only use it for item IDs, and AES keys)
+For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno
