@@ -433,7 +433,7 @@ A build collection like no other.
 | 15.40-CL-15419568 | Status Pending |
 | 15.40-CL-15424013 | Status Pending |
 | 15.40-CL-15496915 | Status Pending |
-| 15.50-CL-15526472 (EXC) | hhttps://galaxiafn.co.uk/15.50.zip | ttps://gofile.io/d/azUtJZ |
+| 15.50-CL-15526472 (EXC) | https://galaxiafn.co.uk/15.50.zip | https://gofile.io/d/azUtJZ |
 | 15.50-CL-15570449 | Unavailable |
 
 ## Season 16
