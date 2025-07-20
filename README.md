@@ -7,7 +7,7 @@ A build collection like no other.
 <details open>
   <summary><h1>Fortnite Builds Text Archive</h1></summary>
 
- If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/f1czlhpbg5to3qxymcml1/Fortnite-Builds-Text-Archive-22.10.txt?rlkey=iwwnydx05avvl2319a5kmhv21&st=qkbs13pl&dl=0)
+ If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/3duofb66ye3zfs1z392ad/Fortnite-Builds-Text-Archive-23.00.txt?rlkey=sm2ubj587etz7ci4amst7mc1z&st=xyc7a5hq&dl=0)
 
  Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -22,29 +22,25 @@ A build collection like no other.
 
   [Auties](https://github.com/Auties00): 1.7.2-CL-3700114, 1.8-CL-3724489, 1.8.1-CL-3729133, 1.8.2-CL-3741772, 1.9-CL-3757339, 1.9.1-CL-3775276, 1.10-CL-3790078, 1.11-CL-3807424, 2.1.0-CL-3825894, 2.3.0-CL-3847564, 2.4.0-CL-3858292, 2.4.2-CL-3870737, 2.5-CL-3889387, 3.0.0-CL-3901517, 3.1-CL-3915963, 3.1-CL-3915963, 3.2-CL-3935073, 3.3-CL-3942182, 3.5-CL-4008490, 4.0-CL-4039451, 4.2-CL-4072250, 4.4-CL-4117433, 4.5-CL-4159770, 5.00-CL-4204761, 5.00-CL-4214610, 5.10-CL-4240749, 5.21-CL-4288479, 5.30-CL-4305896, 5.40-CL-4352937, 6.00-CL-4395664, 6.01-CL-4417689, 6.01-CL-4424678, 6.02-CL-4442095, 6.02-CL-4461277, 6.10-CL-4464155, 6.10-CL-4476098, 6.10-CL-4480234, 6.21-CL-4526925, 6.22-CL-4543176, 6.30-CL-4579044, 6.31-CL-4573279, 7.00-CL-4629139, 7.10-CL-4667333, 7.20-CL-4727874, 7.30-CL-4834550, 7.40-CL-5046157, 8.00-CL-5203069, 8.20-CL-5625478, 8.30-CL-5793395, 8.40-CL-6005771, 8.50-CL-6058028, 8.51-CL-6165369, 9.00-CL-6337466, 9.01-CL-6428087, 9.10-CL-6639283, 9.21-CL-6922310, 9.30-CL-7095426, 9.40-CL-7315705, 9.41-CL-7609292, 10.00-CL-7704164, 10.10-CL-7955722, 10.20-CL-8456527, 10.31-CL-8723043
 
-  [0729たいがー](https://discord.gg/5dwHYcVwtP): 5.00-CL-4204761, 7.40-CL-5046157, 12.00-CL-11556442, 12.41-CL-12905909, 12.50-CL-13137020, 12.61-CL-13498980, 21.00-CL-20463113, 21.20-CL-20978394, 21.30-CL-21155462, 21.40-CL-21407327, 21.51-CL-21735703, 22.00-CL-22149829, 22.10-CL-22429549, 22.20-CL-22600409, 22.40-CL-23070899, 23.00-CL-23344627, 23.10-CL-23572221, 23.20-CL-23783097, 23.40-CL-24087481, 23.50-CL-24441668, 24.00-CL-24554913, 24.01-CL-24672685, 24.10-CL-24903530, 24.20-CL-25156858, 24.30-CL-25347382, 24.40-CL-25521145, 24.40-CL-25595478, 25.00-CL-25909622, 25.10-CL-26000959, 25.11-CL-26171015, 25.20-CL-26474516, 25.20-CL-26629111, 25.30-CL-26867995, 26.00-CL-27233190, 26.00-CL-27424790, 26.10-CL-27681420, 26.20-CL-28096793, 26.30-CL-28688692, 27.00-CL-29072304, 27.10-CL-29552510, 27.11-CL-29739262, 28.00-CL-29915848, 28.01-CL-30106568, 28.01-CL-30313795, 28.10-CL-30676362, 28.20-CL-31286935, 28.30-CL-31511038, 29.00-CL-32116959, 29.01-CL-32291970, 29.10-CL-32391220, 29.10-CL-32567225, 29.20-CL-32716692, 29.30-CL-32982357, 29.40-CL-33629566, 30.00-CL-33962396, 30.10-CL-34261954, 30.20-CL-34597766, 30.30-CL-34891016, 30.40-CL-35235494, 31.00-CL-35447195, 31.10-CL-35815136, 31.30-CL-36600465, 32.00-CL-37505882, 32.11-CL-38202817, 33.10-CL-38630093, 33.11-CL-38773622, 33.20-CL-39082670, 33.30-CL-39435251, 34.00-CL-40085084, 34.10-CL-40567068, 34.20-CL-40965447
-
-  [Me](https://github.com/llamaqwerty): OT11 Playsation 4, Cert-CL-3532353, 10.00-CL-7658179, 12.20-CL-12236980, 13.30-CL-13884634, 15.20-CL-15070882, 16.20-CL-16042441, 17.10-CL-16745144, 18.30-CL-17882303, 19.20-CL-18775446, 19.30-CL-19027703, 21.20-CL-20978394, 24.00-CL-24554913, 24.01-CL-24672685, 25.00-CL-25909622, 25.10-CL-26000959, 25.11-CL-26171015, 25.30-CL-26867995, 26.00-CL-27424790, 26.10-CL-27681420, 27.11-CL-29739262, 28.00-CL-29915848, 28.30-CL-31511038, 29.10-CL-32391220, 29.20-CL-32716692, 29.30-CL-32982357, 29.40-CL-33629566, 30.00-CL-33962396, 30.30-CL-34891016, 31.10-CL-35815136, 31.30-CL-36600465, 32.11-CL-38371047, 33.00-CL-38504598, 33.30-CL-39435251, 34.00-CL-40085084, 35.10-CL-42476511, 35.20-CL-42911808
+  [Me](https://github.com/llamaqwerty): OT11 Playsation 4, 10.00-CL-7658179, 15.20-CL-15070882, 17.10-CL-16745144, 18.30-CL-17882303, 19.20-CL-18775446, 19.30-CL-19027703, 21.20-CL-20978394, 24.00-CL-24554913, 24.01-CL-24672685, 25.00-CL-25909622, 25.11-CL-26171015, 26.10-CL-27681420, 27.11-CL-29739262, 28.00-CL-29915848, 28.30-CL-31511038, 29.10-CL-32391220, 29.20-CL-32716692, 29.30-CL-32982357, 29.40-CL-33629566, 30.30-CL-34891016, 31.10-CL-35815136, 32.11-CL-38371047, 33.00-CL-38504598, 33.30-CL-39435251, 34.00-CL-40085084, 35.10-CL-42476511, 35.20-CL-42911808
 
   [Shoqaratio](https://github.com/Shoqaratio): OT6.5, 1.7.2-CL-3700114, 1.11-CL-3807424, 2.4.0-CL-3858292, 3.0-CL-3901517, 3.5-CL-4008490, 3.6-CL-4019403, 4.0-CL-4039451, 4.1-CL-4053532, 4.2-CL-4072250, 5.41-CL-4363240, 6.21-CL-4526925, 7.00-CL-4629139, 7.30-CL-4834550, 7.40-CL-5046157, 8.00-CL-5203069, 8.50-CL-6058028, 8.51-CL-6165369, 9.10-CL-6639283, 9.41-CL-7609292, 11.00-CL-9603448, 12.41-CL-12905909, 15.30-CL-15341163, 15.50-CL-15526472, 16.40-CL-16218553, 16.50-CL-16432754, 18.40-CL-18163738, 19.40-CL-19215531
 
-  [CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 12.20-CL-12236980, 12.40-CL-12837456, 13.30-CL-13884634, 15.20-CL-15070882, 16.20-CL-16042441
-
   peppa pig: 4.10-CL-4053532 (Text Archive Exclusive), 31.20-CL-36253989 (Text Archive Exclusive), 34.10-CL-40567068 (Text Archive Exclusive), 35.10-CL-42476511
 
-  [Leeroooooy Jenkins](https://github.com/BestInTest): 28.20-CL-31165234, 31.20-CL-36348034, 31.40-CL-36874825, 31.40-CL-37076506, 32.00-CL-37770125, 33.00-CL-38504598
+  [Leeroooooy Jenkins](https://github.com/BestInTest): 28.20-CL-31165234, 31.40-CL-37076506, 32.00-CL-37770125
 
-  [P2X Optic](https://www.youtube.com/@Yanny57): 6.20-CL-4497486, 11.20-CL-10297577, 11.50-CL-11265652, 14.10-CL-14312695, 14.20-CL-14384759, 14.50-CL-14643651, 15.50-CL-15526472, 17.00-CL-16593740, 28.20-CL-31286935, 30.00-CL-33760522, 33.00-CL-38324112, Main-CL-21452241
+  [P2X Optic](https://www.youtube.com/@Yanny57): 14.50-CL-14643651, 15.50-CL-15526472, 28.20-CL-31286935, 30.00-CL-33760522, 33.00-CL-38324112, Main-CL-21452241
 
-  [AllyJax](https://x.com/AllyJax_): 11.00-CL-9562734, 16.50-CL-16469788, 19.40-CL-19215531
+  [Aorux](https://www.youtube.com/channel/UCuwn6IZv299qUyYI_5cM8yg): 6.20-CL-4497486, 9.20-CL-6822798, 10.30-CL-8569414, 11.00-CL-9562734, 11.01-CL-9728272, 11.10-CL-9901083, 11.11-CL-10082788, 11.21-CL-10481509, 11.40-CL-11039906, 12.00-CL-11586896, 12.60-CL-13477524, 15.00-CL-14835335, 15.21-CL-15083856, 16.00-CL-15685441, 16.50-CL-16469788, 17.10-CL-16745144, 17.20-CL-16868155, 17.21-CL-16967001, 17.40-CL-17269705, 18.10-CL-17661844, 18.20-CL-17792290, 18.21-CL-17811397, 24.40-CL-25521145
 
-  [Aorux](https://www.youtube.com/channel/UCuwn6IZv299qUyYI_5cM8yg): 18.10-CL-17661844, 18.20-CL-17792290, 18.21-CL-17811397
-
-  [ka pum](https://x.com/KPMisParrot): 12.60-CL-13477524, 14.30-CL-14456520, 20.30-CL-19950687, 25.00-CL-25784668, 31.40-CL-36874825, QAGame UE4.11
+  [ka pum](https://x.com/KPMisParrot): 12.60-CL-13477524, 14.30-CL-14456520, 16.10-CL-15913292, 20.30-CL-19950687, 25.00-CL-25784668, 31.40-CL-36874825
 
   [ploosh](https://github.com/plooshi): 15.30-CL-15341163, 19.01-CL-18489740, 21.00-CL-20463113, 24.20-CL-24939793, 26.30-CL-28509302
 
   [Timmy](https://github.com/timjans01): 6.20-CL-4497486, 9.20-CL-6822798, 11.20-CL-10297577, 11.50-CL-11265652, 13.20-CL-13777676, 14.10-CL-14312695, 14.20-CL-14384759, 14.50-CL-14643651, 15.10-CL-15014719, 17.00-CL-16593740, 17.30-CL-17004569, 17.40-CL-17269705, 18.10-CL-17661844, 18.20-CL-17745267, 18.40-CL-18163738, 19.30-CL-19027703, 20.00-CL-19458861, 20.10-CL-19598943, 20.20-CL-19751212, 20.30-CL-19950687, 20.40-CL-20244966, 21.20-CL-20978394, 21.30-CL-21155462, 21.40-CL-21407327, 22.10-CL-22429549, 23.10-CL-23572221
+
+  Anonymous: 17.10-CL-16745144, 17.40-CL-17269705, 19.30-CL-18948597
 
   All small contributors (contributors of 2 or less builds) will go towards the bottom and large contributors (contributors of 3 or more builds) will go towards the top
 
@@ -156,7 +152,7 @@ A build collection like no other.
 ## Pre-Season
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| Cert (Cert-CL-3532353) (Windows, Windows, Windows) (EXC) | https://gofile.io/d/oqdWG7 | https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z |
+| Cert (Cert-CL-3532353) (Windows, Windows, Windows) (EXC) | https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z |
 | 1.2.0 (Cert-CL-3541083) | Unavailable |
 | 1.4.0 | Lost |
 | 1.4.1 | Lost |
@@ -261,7 +257,7 @@ A build collection like no other.
 | 6.10 (6.10-CL-4464155) | https://public.simplyblk.xyz/6.10.rar | https://builds.rebootfn.org/6.10.rar |
 | 6.10.1 (6.10-CL-4476098) (EXC) | https://public.simplyblk.xyz/6.10.1.rar | https://builds.rebootfn.org/6.10.1.rar |
 | 6.10.2 (6.10-CL-4480234) (EXC) | https://public.simplyblk.xyz/6.10.2.rar | https://builds.rebootfn.org/6.10.2.rar |
-| 6.20 (6.20-CL-4497486) | https://cdn.cbn.lol/6.20 | https://gofile.io/d/7P7IBT |
+| 6.20 (6.20-CL-4497486) | https://cdn.cbn.lol/6.20 | https://download.fn-archive.com/FortniteClient-6.20-CL-4497486.rar |
 | 6.20.1 (6.20-CL-4504220) | Lost |
 | 6.21 (6.21-CL-4526925) | https://public.simplyblk.xyz/6.21.rar | https://builds.rebootfn.org/6.21.rar | https://galaxiafn.co.uk/6.21.zip |
 | 6.21.1 (6.21-CL-4531851) | Lost |
@@ -314,7 +310,7 @@ A build collection like no other.
 | 9.10 (9.10-CL-6573057) | Lost |
 | 9.10.1 (9.10-CL-6616201) | Lost |
 | 9.10.2 (9.10-CL-6639283) | https://public.simplyblk.xyz/9.10.rar | https://builds.rebootfn.org/9.10.rar | https://cdn.solarisfn.dev/Builds/9.10.zip |
-| 9.20 (9.20-CL-6822798) | https://public.simplyblk.xyz/9.20.rar | https://cdn.cbn.lol/9.20 |
+| 9.20 (9.20-CL-6822798) | https://public.simplyblk.xyz/9.20.rar | https://cdn.cbn.lol/9.20 | https://download.fn-archive.com/FortniteClient-9.20-CL-6822798.rar |
 | 9.21 (9.21-CL-6922310) | https://public.simplyblk.xyz/9.21.zip | https://builds.rebootfn.org/9.21.zip |
 | 9.30 (9.30-CL-7021684) | Lost | 
 | 9.30.1 (9.30-CL-7095426) | https://public.simplyblk.xyz/9.30.zip | https://builds.rebootfn.org/9.30.zip |
@@ -331,7 +327,7 @@ A build collection like no other.
 | 10.20 (10.20-CL-8243923) | Lost |
 | 10.20.1 (10.20-CL-8360257) | Lost |
 | 10.20.2 (10.20-CL-8456527) | https://public.simplyblk.xyz/10.20.zip | https://builds.rebootfn.org/10.20.zip |
-| 10.30 (10.30-CL-8569414) | Unavailable |
+| 10.30 (10.30-CL-8569414) | https://download.fn-archive.com/FortniteClient-10.30-CL-8569414.rar |
 | 10.31 (10.31-CL-8723043) | https://public.simplyblk.xyz/10.31.zip | https://builds.rebootfn.org/10.31.zip |
 | 10.40 (10.40-CL-8970213) | Lost |
 | 10.40.1 (10.40-CL-9302865) | Lost |
@@ -340,47 +336,47 @@ A build collection like no other.
 ## Season 11
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 11.00-CL-9562734 | https://gofile.io/d/K664o5 | https://archive.org/download/Fortnite-11.00-CL-9562734.7z/11.00-CL-9562734.7z |
+| 11.00-CL-9562734 | https://download.fn-archive.com/FortniteClient-11.00-CL-9562734.7z | https://gofile.io/d/K664o5 | https://archive.org/download/Fortnite-11.00-CL-9562734.7z/11.00-CL-9562734.7z |
 | 11.00-CL-9603448 | https://public.simplyblk.xyz/11.00.zip | https://galaxiafn.co.uk/11.00.zip |
-| 11.01-CL-9728272 | Unavailable |
+| 11.01-CL-9728272 | https://download.fn-archive.com/FortniteClient-11.01-CL-97282720.7z |
 | 11.10-CL-9844520 | Unavailable |
-| 11.10-CL-9901083 | Unavailable |
-| 11.11-CL-10082788 | Unavailable |
-| 11.20-CL-10297577 | https://cdn.cbn.lol/11.20 | https://gofile.io/d/7P7IBT |
+| 11.10-CL-9901083 | https://download.fn-archive.com/FortniteClient-11.10-CL-9901083.7z |
+| 11.11-CL-10082788 | https://download.fn-archive.com/FortniteClient-11.11-CL-10082788.7z |
+| 11.20-CL-10297577 | https://cdn.cbn.lol/11.20 |
 | 11.20-CL-10328358 | Lost |
-| 11.21-CL-10481509 | Unavailable |
+| 11.21-CL-10481509 | https://download.fn-archive.com/FortniteClient-11.21-CL-10481509.7z |
 | 11.30-CL-10639804 | Lost |
 | 11.30-CL-10708866 | https://public.simplyblk.xyz/11.30.7z |
 | 11.31-CL-10760473 | Lost |
 | 11.31-CL-10795579 | Lost |
 | 11.31-CL-10800459 | https://public.simplyblk.xyz/11.31.rar |
 | 11.40-CL-10951104 | Lost |
-| 11.40-CL-11039906 | Unavailable |
+| 11.40-CL-11039906 | https://download.fn-archive.com/FortniteClient-11.40-CL-11039906.7z |
 | 11.40-CL-11109625 | Lost |
 | 11.50-CL-11204868 | Lost |
-| 11.50-CL-11265652 | https://cdn.cbn.lol/11.50 | https://gofile.io/d/7P7IBT |
+| 11.50-CL-11265652 | https://cdn.cbn.lol/11.50 |
 
 ## Season 12
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 12.00-CL-11556442 | https://public.simplyblk.xyz/12.00.rar | https://42.gigafile.nu/download.php?file=0716-o673a3d5bfc26a51c6a31cf65b9f7ba49 |
+| 12.00-CL-11556442 | https://public.simplyblk.xyz/12.00.rar |
 | 12.00-CL-11566760 | Lost |
-| 12.00-CL-11586896 | Unavailable |
+| 12.00-CL-11586896 | https://download.fn-archive.com/FortniteClient-12.00-CL-11586896.7z |
 | 12.10-CL-11794982 | Lost |
 | 12.10-CL-11883027 (EXC) | https://public.simplyblk.xyz/12.10.zip |
 | 12.20-CL-12170032 | Lost |
-| 12.20-CL-12236980 | https://public.simplyblk.xyz/12.20.rar | https://gofile.io/d/CN3CIH | https://gofile.io/d/O4W01n |
+| 12.20-CL-12236980 | https://public.simplyblk.xyz/12.20.rar |
 | 12.21-CL-12353830 (EXC) | https://public.simplyblk.xyz/12.21.zip |
 | 12.30-CL-12493283 | Unavailable |
 | 12.30-CL-12624643 | Lost |
-| 12.40-CL-12837456 | https://public.simplyblk.xyz/12.40.rar | https://gofile.io/d/uI0sIA | https://gofile.io/d/SoXAvR |
+| 12.40-CL-12837456 | https://public.simplyblk.xyz/12.40.rar |
 | 12.41-CL-12905909 | https://public.simplyblk.xyz/Fortnite%2012.41.zip | https://fnbuilds.boostedv2.dev/files/12.41.rar | https://galaxiafn.co.uk/12.41.zip |
 | 12.50-CL-13044369 | Lost |
-| 12.50-CL-13137020 (EXC) | https://public.simplyblk.xyz/12.50.zip | https://42.gigafile.nu/download.php?file=0716-hae9d417058a5c3b17624bc7c30efe0a3 |
+| 12.50-CL-13137020 (EXC) | https://public.simplyblk.xyz/12.50.zip |
 | 12.50-CL-13193885 | Lost |
 | 12.60-CL-13315662 | Lost |
-| 12.60-CL-13477524 | https://gofile.io/d/qD47Xu |
-| 12.61-CL-13498980 | https://public.simplyblk.xyz/12.61.zip | https://42.gigafile.nu/download.php?file=0716-e150bfea1e3e1e97bebef85f04add9374 |
+| 12.60-CL-13477524 | https://download.fn-archive.com/FortniteClient-12.60-CL-13477524.7z | https://gofile.io/d/qD47Xu |
+| 12.61-CL-13498980 | https://public.simplyblk.xyz/12.61.zip |
 
 ## Season 13
 | Build | Download | Alternative Download | Alternative Download
@@ -389,10 +385,10 @@ A build collection like no other.
 | 13.00-CL-13696059 | Lost |
 | 13.00-CL-13715544 | Lost |
 | 13.20-CL-13777676 | https://public.simplyblk.xyz/13.20.rar | https://cdn.cbn.lol/13.20 | https://gofile.io/d/sG8jrF |
-| 13.30-CL-13884634 | https://public.simplyblk.xyz/13.30.rar | https://gofile.io/d/NnGBTe | https://gofile.io/d/dYo46m |
+| 13.30-CL-13884634 | https://public.simplyblk.xyz/13.30.rar |
 | 13.40-CL-14008768 | Lost |
 | 13.40-CL-14036559 | Unavailable |
-| 13.40-CL-14113327 | https://public.simplyblk.xyz/13.40.zip |
+| 13.40-CL-14113327 | https://public.simplyblk.xyz/13.40.zip | https://forcedfnbuilds.website/13.40.rar |
 
 ## Season 14
 | Build | Download | Alternative Download | Alternative Download
@@ -402,10 +398,10 @@ A build collection like no other.
 | 14.00-CL-14211474 | https://public.simplyblk.xyz/14.00.rar |
 | 14.10-CL-14276912 | Lost |
 | 14.10-CL-14288110 | Lost |
-| 14.10-CL-14312695 | https://cdn.cbn.lol/14.10 | https://gofile.io/d/7P7IBT |
+| 14.10-CL-14312695 | https://cdn.cbn.lol/14.10 |
 | 14.20-CL-14354056 | Lost |
 | 14.20-CL-14375974 | Lost |
-| 14.20-CL-14384759 | https://cdn.cbn.lol/14.20 | https://gofile.io/d/7P7IBT |
+| 14.20-CL-14384759 | https://cdn.cbn.lol/14.20 |
 | 14.30-CL-14456520 | https://cdn.solarisfn.dev/Builds/14.30.zip | https://gofile.io/d/47NC7f |
 | 14.40-CL-14512399 | Lost |
 | 14.40-CL-14550713 | https://public.simplyblk.xyz/14.40.rar | https://cdn.solarisfn.dev/Builds/14.40.rar |
@@ -413,19 +409,19 @@ A build collection like no other.
 | 14.50-CL-14643651 | https://cdn.cbn.lol/14.50 | https://gofile.io/d/7P7IBT |
 | 14.60-CL-14756138 | Lost |
 | 14.60-CL-14785135 | Lost |
-| 14.60-CL-14786821 | https://public.simplyblk.xyz/14.60.rar | https://galaxiafn.co.uk/14.60.zip | https://buzzheavier.com/ao5le9jy6brh |
+| 14.60-CL-14786821 | https://public.simplyblk.xyz/14.60.rar | https://galaxiafn.co.uk/14.60.zip | https://gofile.io/d/GsHslZ |
 
 ## Season 15
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 15.00-CL-14826719 | Lost |
-| 15.00-CL-14835335 | Unavailable |
+| 15.00-CL-14835335 | https://download.fn-archive.com/FortniteClient-15.00-CL-14835335.7z |
 | 15.10-CL-14904303 | Lost |
 | 15.10-CL-14937640 | Lost |
 | 15.10-CL-15014719 | https://cdn.cbn.lol/15.10 |
 | 15.20-CL-15033494 | Lost |
-| 15.20-CL-15070882 | https://public.simplyblk.xyz/15.20.rar | https://gofile.io/d/0bOa7W |
-| 15.21-CL-15083856 | Unavailable |
+| 15.20-CL-15070882 | https://public.simplyblk.xyz/15.20.rar |
+| 15.21-CL-15083856 | https://download.fn-archive.com/FortniteClient-15.21-CL-15083856.7z |
 | 15.30-CL-15233634 | Lost |
 | 15.30-CL-15316852 | Lost |
 | 15.30-CL-15341163 | https://public.simplyblk.xyz/15.30.rar | https://r2.ploosh.dev/15.30.zip | https://galaxiafn.co.uk/15.30.zip |
@@ -439,34 +435,34 @@ A build collection like no other.
 ## Season 16
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 16.00-CL-15685441 | Unavailable |
+| 16.00-CL-15685441 | https://download.fn-archive.com/FortniteClient-16.00-CL-15685441.7z |
 | 16.00-CL-15713390 | Lost |
 | 16.00-CL-15727376 | Unavailable |
 | 16.10-CL-15851811 | Lost |
 | 16.10-CL-15862581 | Lost |
 | 16.10-CL-15862581 | Lost |
 | 16.10-CL-15898731 | Lost |
-| 16.10-CL-15913292 | Unavailable |
-| 16.20-CL-16042441 | https://public.simplyblk.xyz/16.20.rar | https://gofile.io/d/ntSFCe | https://gofile.io/d/vFwpNN |
+| 16.10-CL-15913292 | https://gofile.io/d/eAorG0 |
+| 16.20-CL-16042441 | https://public.simplyblk.xyz/16.20.rar |
 | 16.30-CL-16086208 | Lost |
 | 16.30-CL-16163563 (EXC) | https://public.simplyblk.xyz/16.30.zip |
 | 16.40-CL-16218553 | https://public.simplyblk.xyz/16.40.rar | https://galaxiafn.co.uk/16.40.zip |
 | 16.50-CL-16432754 (EXC) | https://galaxiafn.co.uk/16.50.zip |
-| 16.50-CL-16469788 | https://gofile.io/d/hH8XAn |
+| 16.50-CL-16469788 | https://download.fn-archive.com/FortniteClient-16.50-CL-16469788.7z | https://gofile.io/d/hH8XAn |
 
 ## Season 17
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 17.00-CL-16555138 | Lost |
-| 17.00-CL-16593740 | https://cdn.cbn.lol/17.00 | https://gofile.io/d/7P7IBT |
+| 17.00-CL-16593740 | https://cdn.cbn.lol/17.00 |
 | 17.10-CL-16701187 | Lost |
-| 17.10-CL-16745144 | https://public.simplyblk.xyz/17.10.rar | https://gofile.io/d/BXSeEe |
-| 17.20-CL-16868155 | Unavailable |
+| 17.10-CL-16745144 | https://public.simplyblk.xyz/17.10.rar | https://gofile.io/d/RMFIK1 | https://download.fn-archive.com/FortniteClient-17.10-CL-16745144.7z |
+| 17.20-CL-16868155 | https://download.fn-archive.com/FortniteClient-17.20-CL-16868155.7z |
 | 17.21-CL-16949556 | Lost |
-| 17.21-CL-16967001 | Unavailable |
+| 17.21-CL-16967001 | https://download.fn-archive.com/FortniteClient-17.21-CL-16967001.7z |
 | 17.30-CL-17004569 | https://public.simplyblk.xyz/17.30.zip | https://cdn.fortmp.dev/17.30.zip | https://cdn.cbn.lol/17.30 |
 | 17.40-CL-17215766 | Lost |
-| 17.40-CL-17269705 | https://cdn.cbn.lol/17.40 |
+| 17.40-CL-17269705 | https://cdn.cbn.lol/17.40 | https://gofile.io/d/Pu0YAR | https://download.fn-archive.com/FortniteClient-17.40-CL-17269705.7z |
 | 17.50-CL-17328477 | Lost |
 | 17.50-CL-17388565 (EXC) | https://public.simplyblk.xyz/17.50.zip |
 
@@ -478,8 +474,8 @@ A build collection like no other.
 | 18.10-CL-17619277 | Unavailable |
 | 18.10-CL-17661844 | https://cdn.cbn.lol/18.10 | https://gofile.io/d/ikpxzV |
 | 18.20-CL-17745267 | https://cdn.cbn.lol/18.20 |
-| 18.20-CL-17792290 | https://gofile.io/d/ikpxzV |
-| 18.21-CL-17811397 | https://gofile.io/d/ikpxzV |
+| 18.20-CL-17792290 | https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z | https://gofile.io/d/ikpxzV |
+| 18.21-CL-17811397 | https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z | https://gofile.io/d/ikpxzV |
 | 18.30-CL-17882303 | https://public.simplyblk.xyz/18.30.7z | https://gofile.io/d/luD2FP |
 | 18.40-CL-18163738 | https://public.simplyblk.xyz/18.40.zip | https://galaxiafn.co.uk/18.40.zip | https://cdn.cbn.lol/18.40 |
 
@@ -494,9 +490,9 @@ A build collection like no other.
 | 19.10-CL-18640491 | Lost |
 | 19.10-CL-18675304 | https://public.simplyblk.xyz/19.10.rar | https://galaxiafn.co.uk/19.10.zip | https://public-service-live.ol.privateuser.xyz/19.10_final.rar |
 | 19.20-CL-18775446 | https://gofile.io/d/lm76o4 |
-| 19.30-CL-18948597 | Lost |
+| 19.30-CL-18948597 | https://gofile.io/d/UlBhEF |
 | 19.30-CL-19027703 | https://public.simplyblk.xyz/19.30.rar | https://cdn.cbn.lol/19.30 | https://gofile.io/d/KlhJTG |
-| 19.40-CL-19167615 | Lost |
+| 19.40-CL-19167615 | Unavailable |
 | 19.40-CL-19215531 | https://public.simplyblk.xyz/19.40.7z | https://galaxiafn.co.uk/19.40.zip | https://gofile.io/d/QDahzx |
 
 ## Season 20
@@ -506,30 +502,30 @@ A build collection like no other.
 | 20.00-CL-19532288 | Unavailable |
 | 20.10-CL-19598943 | https://public.simplyblk.xyz/20.10.zip | https://gofile.io/d/SPLUZm |
 | 20.20-CL-19751212 | https://public.simplyblk.xyz/20.20.zip | https://gofile.io/d/SPLUZm |
-| 20.20-CL-19896998 | Lost |
+| 20.20-CL-19896998 | Unavailable |
 | 20.30-CL-19950687 | https://cdn.cbn.lol/20.30 | https://galaxiafn.co.uk/20.30.zip | https://gofile.io/d/gBUbgS |
-| 20.30-CL-20037261 | Lost |
+| 20.30-CL-20037261 | Unavailable |
 | 20.40-CL-20175294 | Lost |
 | 20.40-CL-20244966 | https://public.simplyblk.xyz/20.40.zip | https://cdn.cbn.lol/20.40 |
 
 ## Season 21
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 21.00-CL-20463113 (EXC) | https://r2.ploosh.dev/21.00.zip | https://42.gigafile.nu/download.php?file=0717-n354c40119fb246cb78204c5549150fed |
-| 21.00-CL-20548557 | Lost |
-| 21.10-CL-20696680 | https://public.simplyblk.xyz/21.10.zip | https://gofile.io/d/3ud3OS |
+| 21.00-CL-20463113 (EXC) | https://r2.ploosh.dev/21.00.zip |
+| 21.00-CL-20548557 | Unavailable |
+| 21.10-CL-20696680 | https://public.simplyblk.xyz/21.10.zip |
 | 21.10-CL-20756627 | Lost |
 | 21.10-CL-20777648 | Lost |
-| 21.10-CL-20829351 | Lost |
+| 21.10-CL-20829351 | Unavailable |
 | 21.20-CL-20890025 | Unavailable |
-| 21.20-CL-20978394 | https://cdn.cbn.lol/21.20 | https://gofile.io/d/IdQeCy | https://42.gigafile.nu/download.php?file=0717-hdb774be16224ae87a68bcd90dd74cd55 |
+| 21.20-CL-20978394 | https://cdn.cbn.lol/21.20 | https://gofile.io/d/IdQeCy |
 | 21.20-CL-21035704 | Unavailable |
 | 21.30-CL-21102315 | Lost |
-| 21.30-CL-21155462 | https://cdn.cbn.lol/21.30 | https://gofile.io/d/Wxi5Am | https://42.gigafile.nu/download.php?file=0717-mc301100de2f83bb42ee426a177a3010d |
+| 21.30-CL-21155462 | https://cdn.cbn.lol/21.30 |
 | 21.40-CL-21348157 | Lost |
-| 21.40-CL-21407327 | https://cdn.cbn.lol/21.40 | https://42.gigafile.nu/download.php?file=0717-nf806594f0db62ad8be74a7299a148115 |
-| 21.50-CL-21657658 | https://public.simplyblk.xyz/21.50.zip | https://gofile.io/d/3ud3OS |
-| 21.51-CL-21735703 | https://public.simplyblk.xyz/21.51.7z | https://42.gigafile.nu/download.php?file=0717-m8ae45a407b35f1c263d0d4e79ef79c48 |
+| 21.40-CL-21407327 | https://cdn.cbn.lol/21.40 |
+| 21.50-CL-21657658 | https://public.simplyblk.xyz/21.50.zip |
+| 21.51-CL-21735703 | https://public.simplyblk.xyz/21.51.7z |
 
 ## Season 22
 | Build | Download | Alternative Download | Alternative Download
@@ -537,158 +533,158 @@ A build collection like no other.
 | 22.00-CL-22026835 | Lost |
 | 22.00-CL-22072684 | Lost |
 | 22.00-CL-22107157 | Lost |
-| 22.00-CL-22149829 | https://public.simplyblk.xyz/22.00.7z | https://42.gigafile.nu/download.php?file=0717-i55f071c2d07726bedbf8d48cae28bb8b |
+| 22.00-CL-22149829 | https://public.simplyblk.xyz/22.00.7z |
 | 22.10-CL-22240570 | Lost |
-| 22.10-CL-22429549 | https://cdn.cbn.lol/22.10 | https://gofile.io/d/gK7bpk | https://42.gigafile.nu/download.php?file=0717-j761f238acee7d600f7a4445e17438018 |
+| 22.10-CL-22429549 | https://cdn.cbn.lol/22.10 |
 | 22.20-CL-22523251 | Lost |
-| 22.20-CL-22600409 | https://42.gigafile.nu/download.php?file=0717-hac84002d06c82caaa31ec65e4811038f |
+| 22.20-CL-22600409 | Unavailable |
 | 22.30-CL-22803135 | Unavailable |
-| 22.40-CL-23070899 | https://gofile.io/d/h9pvm6 | https://42.gigafile.nu/download.php?file=0717-f74af55d65c16b789755388fc49226759 |
+| 22.40-CL-23070899 | Unavailable |
 
 ## Season 23
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 23.00-CL-23344627 | https://public.simplyblk.xyz/23.00.7z | https://42.gigafile.nu/download.php?file=0717-f49e08dada498c5c7a9dcc398f40462ca |
-| 23.10-CL-23443094 | https://public.simplyblk.xyz/23.10.rar | https://gofile.io/d/7BSdQ6 |
-| 23.10-CL-23572221 | https://cdn.cbn.lol/23.10 | https://42.gigafile.nu/download.php?file=0717-k6d165e0d5f2cdebc16ad74cd11557432 |
-| 23.20-CL-23659353 | Lost |
-| 23.20-CL-23783097 | https://gofile.io/d/Z6b74U | https://42.gigafile.nu/download.php?file=0717-ead9fa64f503b29a7cc5e6474c09f3445 |
+| 23.00-CL-23344627 | https://public.simplyblk.xyz/23.00.7z |
+| 23.10-CL-23443094 | https://public.simplyblk.xyz/23.10.rar |
+| 23.10-CL-23572221 | https://cdn.cbn.lol/23.10 |
+| 23.20-CL-23659353 | Unavailable |
+| 23.20-CL-23783097 | Unavailable |
 | 23.30-CL-23901854 | Lost |
-| 23.30-CL-23986860 | Lost |
-| 23.40-CL-24087481 | https://public.simplyblk.xyz/23.40.zip | https://42.gigafile.nu/download.php?file=0717-gfba661b6de4132533bc8a464efbefc7f |
+| 23.30-CL-23986860 | Unavailable |
+| 23.40-CL-24087481 | https://public.simplyblk.xyz/23.40.zip |
 | 23.50-CL-24376996 | Lost |
-| 23.50-CL-24441668 | https://public.simplyblk.xyz/23.50.zip | https://gofile.io/d/e8i26f | https://42.gigafile.nu/download.php?file=0717-kb8abed97dedfac0a1784f50b984b6e6b |
+| 23.50-CL-24441668 | https://public.simplyblk.xyz/23.50.zip | https://titanac.xyz/23.50.rar |
 
 ## Season 24
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 24.00-CL-24554913 | https://gofile.io/d/GOSBx4 | https://42.gigafile.nu/download.php?file=0717-h3b656cfd1b4e9efbfbde04f34e38a515 |
-| 24.01-CL-24672685 | https://gofile.io/d/DGiYYQ | https://42.gigafile.nu/download.php?file=0717-fda1072b199953b3d45a5551137656366 |
+| 24.00-CL-24554913 | https://gofile.io/d/GOSBx4 |
+| 24.01-CL-24672685 | https://gofile.io/d/DGiYYQ |
 | 24.01-CL-24757023 | Lost |
 | 24.10-CL-24770548 | Unavailable |
-| 24.10-CL-24903530 | https://42.gigafile.nu/download.php?file=0717-mddd14e75b256b9896c116a8638331079 |
+| 24.10-CL-24903530 | Unavailable |
 | 24.20-CL-24939793 (EXC) | https://r2.ploosh.dev/24.20.zip |
 | 24.20-CL-25019967 | Lost |
 | 24.20-CL-25058254 | Lost |
-| 24.20-CL-25156858 | https://42.gigafile.nu/download.php?file=0717-h0ca620efd6a1245f1beeea42d56f0b49 |
+| 24.20-CL-25156858 | Unavailable |
 | 24.30-CL-25210886 | Unavailable |
-| 24.30-CL-25347382 | https://42.gigafile.nu/download.php?file=0717-h18eb272fd69cc336cbbfd9cdf8d6382b |
+| 24.30-CL-25347382 | Unavailable |
 | 24.40-CL-25420516 | Unavailable |
-| 24.40-CL-25521145 | https://42.gigafile.nu/download.php?file=0717-g481f88b30e9d2d8c43446602c0c71f9c |
-| 24.40-CL-25595478 | https://42.gigafile.nu/download.php?file=0717-h10ce55f6d8bfc649b44cbe66295426c1 |
+| 24.40-CL-25521145 | https://download.fn-archive.com/FortniteClient-24.40-CL-25521145.zip |
+| 24.40-CL-25595478 | Unavailable |
 
 ## Season 25
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 25.00-CL-25784668 | https://gofile.io/d/KnhW64 |
-| 25.00-CL-25909622 | https://42.gigafile.nu/download.php?file=0717-m5f603174829de05adff6aaebb47fdfd8 | https://gofile.io/d/HI14D5 |
-| 25.10-CL-26000959 | https://gofile.io/d/5yVVNk | https://42.gigafile.nu/download.php?file=0716-m43e0e0fb9001e11cde41b600e99b1aed |
-| 25.11-CL-26171015 | https://42.gigafile.nu/download.php?file=0716-f88a581f9bba80fbc50fff05009db9d77 | https://gofile.io/d/WwK2MV |
-| 25.20-CL-26474516 | https://42.gigafile.nu/download.php?file=0716-fbf8a0745a2226c3c004d949d3dc184c0 |
-| 25.20-CL-26629111 | https://42.gigafile.nu/download.php?file=0716-nc2a1ffa8edcb270723884f14792a6685 |
-| 25.30-CL-26867995 | https://gofile.io/d/BdLGzc | https://42.gigafile.nu/download.php?file=0716-pa6c0c9d68dc8a9ecf8ae7522e62bb3b4 |
+| 25.00-CL-25909622 | https://gofile.io/d/HI14D5 |
+| 25.10-CL-26000959 | Unavailable |
+| 25.11-CL-26171015 | https://gofile.io/d/WwK2MV |
+| 25.20-CL-26474516 | Unavailable |
+| 25.20-CL-26629111 | unavailable |
+| 25.30-CL-26867995 | unavailable |
 
 ## Season 26
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 26.00-CL-27233190 | https://42.gigafile.nu/download.php?file=0716-j2737812e65a2a9bba42a4b6571efa0da | https://42.gigafile.nu/download.php?file=0716-p107216dbd2de1978091f02269112bbce |
-| 26.00-CL-27424790 | https://gofile.io/d/M4bCRL | https://42.gigafile.nu/download.php?file=0716-f0e19e0591fd6b416d05f0af97b0e2ee8 |
-| 26.10-CL-27681420 | https://gofile.io/d/vM1yFB | https://42.gigafile.nu/download.php?file=0716-k3154aef33a9af23d647eb8099de489ed |
-| 26.20-CL-28096793 | https://gofile.io/d/C63eDL | https://42.gigafile.nu/download.php?file=0716-pa8427c454960bc0c1c747d5b3449c004 |
+| 26.00-CL-27233190 | Unavailable |
+| 26.00-CL-27424790 | Unavailable |
+| 26.10-CL-27681420 | https://gofile.io/d/vM1yFB |
+| 26.20-CL-28096793 | Unavailable |
 | 26.30-CL-28509302 | https://r2.ploosh.dev/26.30.zip |
-| 26.30-CL-28688692 | https://42.gigafile.nu/download.php?file=0716-p7c075885a6640e854810a17f90f53f56 |
+| 26.30-CL-28688692 | Unavailable |
 
 ## Season 27
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 27.00-CL-29072304 | https://42.gigafile.nu/download.php?file=0716-j60fd63b63fc5643e9d69fac427984d6d |
-| 27.10-CL-29552510 | https://42.gigafile.nu/download.php?file=0716-g613dcfbb61b157dc520f45fd3071a221 |
-| 27.11-CL-29739262 | https://gofile.io/d/MfJHqg | https://42.gigafile.nu/download.php?file=0716-ma8dd9bbcc695f2e4dbaf51d3498d8054 |
+| 27.00-CL-29072304 | Unavailable |
+| 27.10-CL-29552510 | Unavailable |
+| 27.11-CL-29739262 | https://gofile.io/d/MfJHqg |
 
 ## Season 28
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 28.00-CL-29915848 | https://gofile.io/d/uDTffQ | https://42.gigafile.nu/download.php?file=0716-l70c6a8e12f425fe90e9fbaa0372c71fc | https://gofile.io/d/JSNFao |
-| 28.01-CL-30106568 | https://42.gigafile.nu/download.php?file=0716-i7e7669848e9bc6eac93ff8a72392d0ba |
-| 28.01-CL-30313795 | https://42.gigafile.nu/download.php?file=0716-j19ae02220785f55800508817ba8adfc1 |
-| 28.10-CL-30676362 | https://42.gigafile.nu/download.php?file=0716-o1d035c19391dc465e953c687c1d6bcd4 |
-| 28.10-CL-30835064 | https://buzzheavier.com/kxgbxvsrg4yh |
+| 28.00-CL-29915848 | https://gofile.io/d/uDTffQ |
+| 28.01-CL-30106568 | Unavailable |
+| 28.01-CL-30313795 | Unavailable |
+| 28.10-CL-30676362 | Unavailable |
+| 28.10-CL-30835064 | Unavailable |
 | 28.20-CL-31165234 | https://buzzheavier.com/hobg7favbekg | https://gofile.io/d/e9BQ6I | 
-| 28.20-CL-31286935 | https://gofile.io/d/4jCsrg | https://42.gigafile.nu/download.php?file=0717-le04e1a02cbad710cc748ee7932929a88 |
-| 28.30-CL-31511038 | https://gofile.io/d/pIYSae | https://42.gigafile.nu/download.php?file=0717-k31f9b5eef96890bbf85a1830dc17920c |
+| 28.20-CL-31286935 | https://gofile.io/d/4jCsrg |
+| 28.30-CL-31511038 | https://gofile.io/d/pIYSae |
 
 ## Season 29
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 29.00-CL-31978752 | Unavailable |
-| 29.00-CL-32116959 | https://gofile.io/d/CRIfxy | https://42.gigafile.nu/download.php?file=0717-la163989a78f940b5d419de420b8a22cc |
-| 29.10-CL-32391220 | https://42.gigafile.nu/download.php?file=0717-md2231b4d931b59d826474957a44b787b |
-| 29.10-CL-32567225 | https://42.gigafile.nu/download.php?file=0717-i80a047fd238779210906093244304418 |
-| 29.20-CL-32716692 | https://42.gigafile.nu/download.php?file=0717-e5654e820957f98bb5f2dd3e66948b0d7 | https://gofile.io/d/V9bGNz |
-| 29.30-CL-32982357 | https://42.gigafile.nu/download.php?file=0717-i308dfec9e7ce3b593a38d624261f21f4 | https://gofile.io/d/JxJhKD |
+| 29.00-CL-32116959 | https://gofile.io/d/CRIfxy |
+| 29.10-CL-32391220 | Unavailable |
+| 29.10-CL-32567225 | Unavailable |
+| 29.20-CL-32716692 | https://gofile.io/d/V9bGNz |
+| 29.30-CL-32982357 | https://gofile.io/d/JxJhKD |
 | 29.40-CL-33291686 | Lost |
 | 29.40-CL-33502036 | Unavailable |
-| 29.40-CL-33629566 | https://42.gigafile.nu/download.php?file=0717-h97d67dab2e67f4c1a8cb1172e8230f9a | https://gofile.io/d/iAdkFa |
+| 29.40-CL-33629566 | https://gofile.io/d/iAdkFa |
 
 ## Season 30
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 30.00-CL-33760522 | https://gofile.io/d/mO30zn |
-| 30.00-CL-33962396 | https://gofile.io/d/jFK9tC | https://42.gigafile.nu/download.php?file=0717-i95fcbb6a4d771ee5fab7f8470b9cf61b |
+| 30.00-CL-33962396 | Unavailable |
 | 30.10-CL-34184790 | Unavailable |
-| 30.10-CL-34261954 | https://42.gigafile.nu/download.php?file=0717-effb1a59382144720b50a0014723c9b1 |
+| 30.10-CL-34261954 | Unavailable |
 | 30.10-CL-34399867 | Unavailable |
 | 30.20-CL-34488544 | Unavailable |
-| 30.20-CL-34597766 | https://42.gigafile.nu/download.php?file=0717-l86451f04f0381003624be5e20f8e8da0 |
-| 30.30-CL-34891016 | https://42.gigafile.nu/download.php?file=0717-j8f27700cd242de96fa4742718cc23aa0 | https://gofile.io/d/nhq0Mz | https://gofile.io/d/Mii9N6 |
-| 30.40-CL-35235494 | https://42.gigafile.nu/download.php?file=0717-n1afa661f476d1df999f19006b0718eaf |
+| 30.20-CL-34597766 | Unavailable |
+| 30.30-CL-34891016 | https://gofile.io/d/nhq0Mz | https://gofile.io/d/Mii9N6 |
+| 30.40-CL-35235494 | Unavailable |
 
 ## Season 31
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 31.00-CL-35447195 | https://42.gigafile.nu/download.php?file=0717-ob3f9564ca991b6a41380039fd94e5f49 |
-| 31.10-CL-35815136 | https://42.gigafile.nu/download.php?file=0717-e4d541f0a1c2f186d3b11ad1016691c4b | https://gofile.io/d/mk97yr |
+| 31.00-CL-35447195 | Unavailable |
+| 31.10-CL-35815136 | https://gofile.io/d/mk97yr |
 | 31.20-CL-36253989 (EXC) | Text Archive Exclusive |
-| 31.20-CL-36348034 | https://buzzheavier.com/3gcnp6jyjjpy |
-| 31.30-CL-36600465 | https://gofile.io/d/C0uHYj | https://42.gigafile.nu/download.php?file=0717-hb7dd56bf4b6b119ab5190dcee5e20a11 |
-| 31.40-CL-36874825 | https://gofile.io/d/xBjWg7 | https://buzzheavier.com/wqu6eapakxfd | 
-| 31.40-CL-37076506 | https://buzzheavier.com/iqxbcnu8ggyu | https://gofile.io/d/hdxnBU |
+| 31.20-CL-36348034 | Unavailable |
+| 31.30-CL-36600465 | Unavailable |
+| 31.40-CL-36874825 | https://gofile.io/d/xBjWg7 |
+| 31.40-CL-37076506 | https://buzzheavier.com/iqxbcnu8ggyu |
 | 31.41-CL-37324991 | Unavailable |
 
 ## Season 32
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 32.00-CL-37505882 | https://42.gigafile.nu/download.php?file=0717-m8de429011d98e545239e4c5dd1e8d59c |
-| 32.00-CL-37770125 | https://gofile.io/d/CLfdzx | https://buzzheavier.com/rnw2uzgol03l |
+| 32.00-CL-37505882 | Unavailable |
+| 32.00-CL-37770125 | https://buzzheavier.com/rnw2uzgol03l |
 | 32.10-CL-37958378 | Unavailable |
-| 32.11-CL-38202817 (EXC) | https://42.gigafile.nu/download.php?file=download.php?file=0717-h721bb3932501e2575180b350f498ce62 |
+| 32.11-CL-38202817 (EXC) | Text Archive Exclusive |
 | 32.11-CL-38371047 | https://gofile.io/d/8Q1Pl2 |
 
 ## Season 33
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 33.00-CL-38324112 | https://gofile.io/d/V1vC9X |
-| 33.00-CL-38504598 | https://gofile.io/d/mvI7im | https://buzzheavier.com/rvdxq6z4vbts |
-| 33.10-CL-38630093 | https://42.gigafile.nu/download.php?file=0717-m4cfb1f417077407c90962f172916107e |
-| 33.11-CL-38773622 | https://gofile.io/d/NATt1E | https://42.gigafile.nu/download.php?file=0717-mb342462b8c4f8df616a6ab863a6b72e7 |
-| 33.20-CL-39082670 | https://42.gigafile.nu/download.php?file=0717-gc715c6d68a6709ab828ffc10c2139183 |
+| 33.00-CL-38504598 | https://gofile.io/d/mvI7im |
+| 33.10-CL-38630093 | Unavailable |
+| 33.11-CL-38773622 | Unavailable |
+| 33.20-CL-39082670 | Unavailable |
 | 33.20-CL-39277041 | Unavailable |
-| 33.30-CL-39435251 | https://42.gigafile.nu/download.php?file=0717-i44c29bf6862a072a56e7754c7376e2c4 | https://gofile.io/d/5rRLUh |
+| 33.30-CL-39435251 | https://gofile.io/d/5rRLUh |
 | 33.30-CL-39768313 | Unavailable |
 
 ## Season 34
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 34.00-CL-40085084 | https://gofile.io/d/TURGzf | https://42.gigafile.nu/download.php?file=0717-o65056b2b00b6412fed9510becee654c8 |
+| 34.00-CL-40085084 | https://gofile.io/d/TURGzf |
 | 34.00-CL-40228973 | Unavailable |
 | 34.00-CL-40398515 | Unavailable |
 | 34.00-CL-40446427 | Lost |
-| 34.10-CL-40567068 (EXC) | https://42.gigafile.nu/download.php?file=0717-j393bdf4cdb427fd046270573d1f75bc0 |
-| 34.20-CL-40965447 | https://42.gigafile.nu/download.php?file=0717-k22cacca6ad8fa6c08e64c6017890b0e6 |
+| 34.10-CL-40567068 (EXC) | Text Archive Exclusive |
+| 34.20-CL-40965447 | Manifest Available |
 | 34.21-CL-41092960 | Manifest Available |
 | 34.30-CL-41387772 | Manifest Available |
-| 34.30-CL-41588354 | https://gofile.io/d/1eA9Lj |
-| 34.40-CL-41753727 | Manifest Available   |
+| 34.30-CL-41588354 | Manifest Available |
+| 34.40-CL-41753727 | Manifest Available |
 
 ## Season 35
 | Build | Download | Alternative Download | Alternative Download
@@ -706,13 +702,14 @@ A build collection like no other.
 | 36.00-CL-43214806 | Manifest Available |
 | 36.00-CL-43339403 | Manifest Available |
 | 36.10-CL-43486998 | Manifest Available |
-| 36.10-CL-43713507 | Current |
+| 36.10-CL-43713507 | Manifest Available |
+| 36.20-CL-43847582 | Current |
 
 ## Other
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| QAGame UE4.11 | https://gofile.io/d/KEV3wO |
-| QAGame UE5.2 | https://gofile.io/d/6iu2BM |
+| QAGame UE4.11 | Unavailable |
+| QAGame UE5.2 | Unavailable |
 | Main-CL-21452241 (Xbox One) | https://gofile.io/d/4c7dWb |
 
 <details open>
@@ -722,15 +719,13 @@ A build collection like no other.
 
  minilun4r: 10.40-CL-9380822 (Text Archive Exclusive)
 
- [Repressoh](https://github.com/Repressoh): 14.60-CL-14786821, 19.10-CL-18675304
-
  [PrivateUser](https://privateuser.xyz/): 19.10-CL-18675304
 
- [Snoopy](https://x.com/Snoopity_Dog420): 28.00-CL-29915848
+ [AllyJax](https://x.com/AllyJax_): 19.40-CL-19215531
+
+ [andrew](https://github.com/andr1ww): 23.50-CL-24441668
 
  [WildFurball](https://www.youtube.com/channel/UCysnqc0X_aJNRpURVTjOgrw): 32.11-CL-38202817 (Text Archive Exclusive)
-
- entertainedbird42: QAGame UE5.2
 
 </details>
 
