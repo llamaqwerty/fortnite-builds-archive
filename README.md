@@ -581,8 +581,8 @@ A build collection like no other.
 | 25.10-CL-26000959 | Unavailable |
 | 25.11-CL-26171015 | https://gofile.io/d/WwK2MV |
 | 25.20-CL-26474516 | Unavailable |
-| 25.20-CL-26629111 | unavailable |
-| 25.30-CL-26867995 | unavailable |
+| 25.20-CL-26629111 | Unavailable |
+| 25.30-CL-26867995 | Unavailable |
 
 ## Season 26
 | Build | Download | Alternative Download | Alternative Download
