@@ -100,7 +100,7 @@ A build collection like no other.
 
 </details>
 
-## Online Testing
+## Online Testing (Download Links Start Here)
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | OT1 (4.?.0-???????) | Lost |
@@ -720,7 +720,7 @@ A build collection like no other.
 | Main-CL-21452241 | Unavailable |
 
 <details open>
-  <summary><h2>Small Contributors</h2></summary>
+  <summary><h2>Small Contributors (Download Links End Here)</h2></summary>
 
  peppa pig: 4.10-CL-4053532 (Text Archive Exclusive), 31.20-CL-36253989 (Text Archive Exclusive), 34.10-CL-40567068 (Text Archive Exclusive)
 
