@@ -13,7 +13,7 @@ A build collection like no other.
 
 </details>
 
-<details open>
+<details>
   <summary><h1>Credits</h1></summary>
 
   Thank you to the following archivists for uploading most of the builds
@@ -47,7 +47,7 @@ A build collection like no other.
 <details open>
   <summary><h2>Contact</h2></summary>
   
-  Contact me through my Discord server (llamaqwerty) or email (llama.dvorak@hotmail.com)
+  Contact me through my Discord server (@llamaqwerty) or email (llama.dvorak@hotmail.com)
 
   I would love to have feedback so I know what to improve in future updates, also please address issues to me immediately
 
@@ -55,7 +55,7 @@ A build collection like no other.
 
 </details>
 
-<details open>
+<details>
   <summary><h2>Issues</h2></summary>
 
   If you have issues downloading from different links then check to see if they are addressed here.
@@ -66,14 +66,14 @@ A build collection like no other.
 
 </details>
 
-<details open>
+<details>
   <summary><h2>Uploader's Disclosure</h2></summary>
 
   I am implementing requirements necessary if you want your CDN's links included on here. Your links must actively work for the majority of people. The links must be capable of fully downloading without any issues. The bandwidth cap should not be so low that it takes several hours to fully download with the exception of slow internet. If you don't resolve any of these issues, then it will be removed for good no matter the circumstances.
 
 </details>
 
-<details open>
+<details>
   <summary><h2>Notes</h2></summary>
 
   I am not the owner of any of these builds and am not resposible for any of the wesbites they are on. Keep in mind some links may say they provide a certain version when they have been proven to actually be a different version.
@@ -719,7 +719,7 @@ A build collection like no other.
 | QAGame UE5.2 | Unavailable |
 | Main-CL-21452241 | Unavailable |
 
-<details open>
+<details>
   <summary><h2>Small Contributors (Download Links End Here)</h2></summary>
 
  peppa pig: 4.10-CL-4053532 (Text Archive Exclusive), 31.20-CL-36253989 (Text Archive Exclusive), 34.10-CL-40567068 (Text Archive Exclusive)
@@ -738,7 +738,7 @@ A build collection like no other.
 
 </details>
 
-<details open>
+<details>
   <summary><h2>Milestones</h2></summary>
 
 10 Stars, April 7th, 2025
