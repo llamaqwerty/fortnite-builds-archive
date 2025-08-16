@@ -247,8 +247,7 @@ A build collection like no other.
 | 6.01 (6.01-CL-4417689) | https://builds.rebootfn.org/6.01.rar | https://archive.org/download/Fortnite-6.01-CL-4417689.rar/6.01-CL-4417689.rar |
 | 6.01.1 (6.01-CL-4424678) | https://build.rebootfn.org/6.1.1.rar | https://drive.google.com/file/d/1u-bij6Gq9_wEVM1G04TP7JI2txNrakQb/view |
 | 6.02 (6.02-CL-4442095 | https://builds.rebootfn.org/6.02.rar |
-| 6.02.1 (6.02-CL-4461277) | https://builds.rebootfn.org/6.2.1.rar | https://drive.google.com/file/d/1SlWF87kNH1PKwu-cRWyuktrS2vVt-pHz/view
- |
+| 6.02.1 (6.02-CL-4461277) | https://builds.rebootfn.org/6.2.1.rar | https://drive.google.com/file/d/1SlWF87kNH1PKwu-cRWyuktrS2vVt-pHz/view |
 | 6.10 (6.10-CL-4464155) | https://builds.rebootfn.org/6.10.rar |
 | 6.10.1 (6.10-CL-4476098) | https://builds.rebootfn.org/6.10.1.rar | https://drive.google.com/file/d/1mDJ66GhmFMQioVU5j39e_W-1E6bZMT7s/view |
 | 6.10.2 (6.10-CL-4480234) | https://builds.rebootfn.org/6.10.2.rar | https://drive.google.com/file/d/1z0S3S8Khz8hY8qL7UbL9FYti5u6qVxsr/view |
