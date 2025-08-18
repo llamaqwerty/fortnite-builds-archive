@@ -56,6 +56,8 @@ A build collection like no other.
 
   If you have issues downloading from different links then check to see if they are addressed here.
 
+  If a google drive link says there are too many people use the [bypass glitch](https://www.youtube.com/watch?v=_xW9w1d2LEY)
+
   Certain links don't work on the first try
 
   Buzzheavier will be broken if your adblocker is enabled
@@ -91,8 +93,6 @@ A build collection like no other.
   [Xbox One Builds Archive](https://github.com/Xader726/FortniteXboxBuilds)
 
   If you have a build considered lost or unavailable then try uploading it and send me the link!
-
-  If a google drive link says there are too many people use the [bypass glitch](https://www.youtube.com/watch?v=_xW9w1d2LEY)
 
 </details>
 
