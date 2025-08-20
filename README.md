@@ -7,7 +7,7 @@ A build collection like no other.
 <details open>
   <summary><h1>Fortnite Builds Text Archive</h1></summary>
 
- If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/11lnfhoa4h7rghmbol9px/Fortnite-Builds-Text-Archive-25.10.txt?rlkey=fvttypgfbugj7wl0viv3vmge9&st=ucsq1gt3&dl=0)
+ If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/somjhp1be7pyq3nmz8p2i/Fortnite-Builds-Text-Archive-25.11.txt?rlkey=w3woy2m1blnxnk9iw5w8rk2kh&st=wgsyido3&dl=0)
 
 </details>
 
@@ -35,8 +35,6 @@ A build collection like no other.
   [Timmy](https://github.com/timjans01): 6.20-CL-4497486, 9.20-CL-6822798, 11.20-CL-10297577, 11.50-CL-11265652, 13.20-CL-13777676, 14.10-CL-14312695, 14.20-CL-14384759, 14.50-CL-14643651, 15.10-CL-15014719, 17.00-CL-16593740, 17.30-CL-17004569, 17.40-CL-17269705, 18.10-CL-17661844, 18.20-CL-17745267, 18.40-CL-18163738, 19.30-CL-19027703, 20.30-CL-19950687, 20.40-CL-20244966, 21.20-CL-20978394, 21.30-CL-21155462, 21.40-CL-21407327, 22.10-CL-22429549, 23.10-CL-23572221
 
   peppa pig: 4.10-CL-4053532, 31.20-CL-36253989, 34.10-CL-40567068
-
-  [ImagineThisGuy](https://github.com/ImagineThisGuy2): 11.30-CL-10708866, 12.61-CL-1349898, 14.60-CL-14786821
 
   All small contributors (contributors of 2 or 1 builds) will go towards the bottom and large contributors (contributors of 3 or more builds) will go towards the top
 
@@ -405,7 +403,7 @@ A build collection like no other.
 | 14.50-CL-14643651 | https://cdn.cbn.lol/14.50 |
 | 14.60-CL-14756138 | Lost |
 | 14.60-CL-14785135 | Lost |
-| 14.60-CL-14786821 | https://buzzheavier.com/dp7k3w73uzgb | https://gofile.io/d/9Hiqb0 |
+| 14.60-CL-14786821 | https://gofile.io/d/9Hiqb0 |
 
 ## Season 15
 | Build | Download | Alternative Download | Alternative Download
@@ -509,7 +507,7 @@ A build collection like no other.
 |--------------|---------------|---------------|---------------|
 | 21.00-CL-20463113 | https://r2.ploosh.dev/21.00.zip | https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view
 | 21.00-CL-20548557 | Unavailable |
-| 21.10-CL-20696680 | https://buzzheavier.com/977wyjszeboj |
+| 21.10-CL-20696680 | Unavailable |
 | 21.10-CL-20756627 | Lost |
 | 21.10-CL-20777648 | Lost |
 | 21.10-CL-20829351 | Unavailable |
@@ -535,7 +533,7 @@ A build collection like no other.
 | 22.20-CL-22523251 | Lost |
 | 22.20-CL-22600409 | Unavailable |
 | 22.30-CL-22803135 | Unavailable |
-| 22.40-CL-23070899 | https://buzzheavier.com/8c8bzt9om1ao | https://gofile.io/d/4qen4s |
+| 22.40-CL-23070899 | https://gofile.io/d/4qen4s |
 
 ## Season 23
 | Build | Download | Alternative Download | Alternative Download
@@ -722,6 +720,8 @@ A build collection like no other.
 
  minilun4r: 10.40-CL-9380822
 
+ [ImagineThisGuy](https://github.com/ImagineThisGuy2): 11.30-CL-10708866, 12.61-CL-1349898
+
  MorganPG: 12.30-CL-12493283
 
  Anonymous: 17.40-CL-17269705
@@ -729,10 +729,6 @@ A build collection like no other.
  [AllyJax](https://x.com/AllyJax_): 18.10-CL-17619277
 
  [PrivateUser](https://privateuser.xyz/): 19.10-CL-18675304
-
- [3PA5_Off](https://www.youtube.com/@yt_teddybear12): 21.10-CL-20696680
-
- [TasmanianDevil](https://github.com/TasmaniandeviI): 22.40-CL-23070899
 
  [andrew](https://github.com/andr1ww): 23.50-CL-24441668
 
