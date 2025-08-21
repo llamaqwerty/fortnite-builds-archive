@@ -7,7 +7,7 @@ A build collection like no other.
 <details open>
   <summary><h1>Fortnite Builds Text Archive</h1></summary>
 
- If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/mis28omauoanvqhzwjizp/Fortnite-Builds-Text-Archive-25.12.txt?rlkey=3kvc0gi1lsx2t9yxa3z32h3ru&st=fqjwnf6p&dl=0)
+ If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/0ldqs1bb6di9jkh01aqdx/Fortnite-Builds-Text-Archive-25.13.txt?rlkey=7tsiybas7ybo612c6xvyx21qw&st=y6odcxg9&dl=0)
 
 </details>
 
@@ -20,7 +20,7 @@ A build collection like no other.
 
 [0729たいがー](https://discord.gg/5dwHYcVwtP): 7.40-CL-5046157, 24.20-CL-25156858, 24.40-CL-25595478, 29.00-CL-32116959
 
-  [Me](https://github.com/llamaqwerty): 2.2.0-CL-3841827, 2.4.2-CL-3870737, 3.6-CL-4019403, 4.1-CL-4053532, 5.21-CL-4288479, 5.41-CL-4363240, 6.01-CL-4417689, 6.31-CL-4573279, 8.40-CL-6005771, 10.40-CL-9380822, 11.00-CL-9562734, 14.60-CL-14786821, 15.20-CL-15070882, 19.01-CL-18489740, 20.00-CL-19458861, 21.10-CL-20696680, 21.51-CL-21735703, 22.00-CL-22149829, 22.40-CL-23070899, 24.00-CL-24554913, 25.11-CL-26171015, 26.10-CL-27681420, 27.11-CL-29739262, 28.00-CL-29915848, 28.30-CL-31511038, 32.11-CL-38371047, QAGame UE4.11, QAGame UE5.2
+  [Me](https://github.com/llamaqwerty): 2.2.0-CL-3841827, 2.4.2-CL-3870737, 3.6-CL-4019403, 4.1-CL-4053532, 4.40-CL-4127312, 5.21-CL-4288479, 5.41-CL-4363240, 6.01-CL-4417689, 6.31-CL-4573279, 8.40-CL-6005771, 10.40-CL-9380822, 11.00-CL-9562734, 14.60-CL-14786821, 15.20-CL-15070882, 19.01-CL-18489740, 20.00-CL-19458861, 21.10-CL-20696680, 21.20-CL-21035704, 21.50-CL-21657658, 21.51-CL-21735703, 22.00-CL-22149829, 22.40-CL-23070899, 23.20-CL-23783097, 24.00-CL-24554913, 25.11-CL-26171015, 26.10-CL-27681420, 27.11-CL-29739262, 28.00-CL-29915848, 28.30-CL-31511038, 32.11-CL-38371047, QAGame UE4.11, QAGame UE5.2
 
   [Shoqaratio](https://github.com/Shoqaratio): 11.31-CL-10800459, 18.10-CL-17619277, 19.40-CL-19215531, 32.11-CL-38371047, 33.11-CL-38773622
 
@@ -218,7 +218,7 @@ A build collection like no other.
 | 4.30 (4.3-CL-4095806) | Lost |
 | 4.30.1 (4.3-CL-4103483) | Lost |
 | 4.40 (4.4-CL-4117433) | https://builds.rebootfn.org/4.4.rar |
-| 4.40.1 (4.4-CL-4127312) | https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view |
+| 4.40.1 (4.4-CL-4127312) | https://buzzheavier.com/w2himfas3gdf | https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view |
 | 4.4.X (4.4.x-CL-4132537) | Lost |
 | 4.50 (4.5-CL-4159770) | https://builds.rebootfn.org/4.5.rar |
 | 4.50.1 (4.5-CL-4166199) | Lost |
@@ -513,12 +513,12 @@ A build collection like no other.
 | 21.10-CL-20829351 | Unavailable |
 | 21.20-CL-20890025 | Unavailable |
 | 21.20-CL-20978394 | https://cdn.cbn.lol/21.20 |
-| 21.20-CL-21035704 | Unavailable |
+| 21.20-CL-21035704 | https://buzzheavier.com/j1tybvbipvl4 |
 | 21.30-CL-21102315 | Lost |
 | 21.30-CL-21155462 | https://cdn.cbn.lol/21.30 |
 | 21.40-CL-21348157 | Lost |
 | 21.40-CL-21407327 | https://cdn.cbn.lol/21.40 |
-| 21.50-CL-21657658 | Unavailable |
+| 21.50-CL-21657658 | https://buzzheavier.com/6pevarb04aw1 |
 | 21.51-CL-21735703 | https://gofile.io/d/BTidwM |
 
 ## Season 22
@@ -542,7 +542,7 @@ A build collection like no other.
 | 23.10-CL-23443094 | Unavailable |
 | 23.10-CL-23572221 | https://cdn.cbn.lol/23.10 |
 | 23.20-CL-23659353 | Unavailable |
-| 23.20-CL-23783097 | Unavailable |
+| 23.20-CL-23783097 | https://buzzheavier.com/06b3c621o6pu |
 | 23.30-CL-23901854 | Lost |
 | 23.30-CL-23986860 | Unavailable |
 | 23.40-CL-24087481 | Unavailable |
