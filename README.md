@@ -7,7 +7,7 @@ A build collection like no other.
 <details open>
   <summary><h1>Fortnite Builds Text Archive</h1></summary>
 
- If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/somjhp1be7pyq3nmz8p2i/Fortnite-Builds-Text-Archive-25.11.txt?rlkey=w3woy2m1blnxnk9iw5w8rk2kh&st=wgsyido3&dl=0)
+ If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/mis28omauoanvqhzwjizp/Fortnite-Builds-Text-Archive-25.12.txt?rlkey=3kvc0gi1lsx2t9yxa3z32h3ru&st=fqjwnf6p&dl=0)
 
 </details>
 
@@ -20,7 +20,7 @@ A build collection like no other.
 
 [0729たいがー](https://discord.gg/5dwHYcVwtP): 7.40-CL-5046157, 24.20-CL-25156858, 24.40-CL-25595478, 29.00-CL-32116959
 
-  [Me](https://github.com/llamaqwerty): 2.2.0-CL-3841827, 3.6-CL-4019403, 4.1-CL-4053532, 5.21-CL-4288479, 5.41-CL-4363240, 6.01-CL-4417689, 6.31-CL-4573279, 8.40-CL-6005771, 10.40-CL-9380822, 11.00-CL-9562734, 14.60-CL-14786821, 19.01-CL-18489740, 20.00-CL-19458861, 21.51-CL-21735703, 22.00-CL-22149829, 22.40-CL-23070899, 24.00-CL-24554913, 25.11-CL-26171015, 26.10-CL-27681420, 27.11-CL-29739262, 28.00-CL-29915848, 28.30-CL-31511038, 32.11-CL-38371047
+  [Me](https://github.com/llamaqwerty): 2.2.0-CL-3841827, 2.4.2-CL-3870737, 3.6-CL-4019403, 4.1-CL-4053532, 5.21-CL-4288479, 5.41-CL-4363240, 6.01-CL-4417689, 6.31-CL-4573279, 8.40-CL-6005771, 10.40-CL-9380822, 11.00-CL-9562734, 14.60-CL-14786821, 15.20-CL-15070882, 19.01-CL-18489740, 20.00-CL-19458861, 21.10-CL-20696680, 21.51-CL-21735703, 22.00-CL-22149829, 22.40-CL-23070899, 24.00-CL-24554913, 25.11-CL-26171015, 26.10-CL-27681420, 27.11-CL-29739262, 28.00-CL-29915848, 28.30-CL-31511038, 32.11-CL-38371047, QAGame UE4.11, QAGame UE5.2
 
   [Shoqaratio](https://github.com/Shoqaratio): 11.31-CL-10800459, 18.10-CL-17619277, 19.40-CL-19215531, 32.11-CL-38371047, 33.11-CL-38773622
 
@@ -188,7 +188,7 @@ A build collection like no other.
 | 2.3.0 (2.3.0-CL-3847564) | https://builds.rebootfn.org/2.3.rar |
 | 2.3.2 (2.3.2-CL-3856999) | Lost |
 | 2.4.0 (2.4.0-CL-3858292) | https://builds.rebootfn.org/2.4.0.zip |
-| 2.4.2 (2.4.2-CL-3870737) | https://builds.rebootfn.org/2.4.2.zip |
+| 2.4.2 (2.4.2-CL-3870737) | https://builds.rebootfn.org/2.4.2.zip | https://buzzheavier.com/fludo01lo3cd |
 | 2.4.X (2.4.x-CL-3876086) | Lost |
 | 2.5.0 (2.5-CL-3889387) | https://builds.rebootfn.org/2.5.0.rar |
 
@@ -414,7 +414,7 @@ A build collection like no other.
 | 15.10-CL-14937640 | Lost |
 | 15.10-CL-15014719 | https://cdn.cbn.lol/15.10 |
 | 15.20-CL-15033494 | Lost |
-| 15.20-CL-15070882 | Unavailable |
+| 15.20-CL-15070882 | https://buzzheavier.com/apgrbix0eiqw |
 | 15.21-CL-15083856 | https://download.fn-archive.com/FortniteClient-15.21-CL-15083856.7z |
 | 15.30-CL-15233634 | Lost |
 | 15.30-CL-15316852 | Lost |
@@ -507,7 +507,7 @@ A build collection like no other.
 |--------------|---------------|---------------|---------------|
 | 21.00-CL-20463113 | https://r2.ploosh.dev/21.00.zip | https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view
 | 21.00-CL-20548557 | Unavailable |
-| 21.10-CL-20696680 | Unavailable |
+| 21.10-CL-20696680 | https://buzzheavier.com/qtybyf63y63j |
 | 21.10-CL-20756627 | Lost |
 | 21.10-CL-20777648 | Lost |
 | 21.10-CL-20829351 | Unavailable |
@@ -711,8 +711,8 @@ A build collection like no other.
 ## Other
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| QAGame UE4.11 | Unavailable |
-| QAGame UE5.2 | Unavailable |
+| QAGame UE4.11 | https://buzzheavier.com/7x179izsqtmw |
+| QAGame UE5.2 | https://buzzheavier.com/wg96jgh7pzbw |
 | Main-CL-21452241 (Xbox One) | https://gofile.io/d/iRxxMg |
 
 <details>
