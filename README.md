@@ -7,7 +7,7 @@ A build collection like no other.
 <details open>
   <summary><h1>Fortnite Builds Text Archive</h1></summary>
 
- If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/qm2wwxf0pvt5u4etlwowz/Fortnite-Builds-Text-Archive-27.00.txt?rlkey=m0xarm3tipbp7gdugrts3tqqx&st=prk0s11c&dl=0)
+ If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/btd4q5jl5rq6j6dcbl4yl/Fortnite-Builds-Text-Archive-27.01.txt?rlkey=wgoz934ncak63ddcg155hy5z8&st=ytv8du7r&dl=0)
 
 </details>
 
@@ -22,7 +22,7 @@ A build collection like no other.
 
 [0729たいがー](https://discord.gg/5dwHYcVwtP): 7.40-CL-5046157, 24.20-CL-25156858, 24.40-CL-25595478, 29.00-CL-32116959
 
-  [Me](https://github.com/llamaqwerty): 2.2.0-CL-3841827, 4.1-CL-4053532, 4.5-CL-4166199, 5.10-CL-4225813, 6.01-CL-4417689, 6.31-CL-4573279, 8.40-CL-6005771, 10.40-CL-9380822, 11.00-CL-9562734, 14.60-CL-14786821, 19.00-CL-18335626, 19.01-CL-18489740, 20.10-CL-19598943, 20.20-CL-19751212, 21.10-CL-20696680, 21.20-CL-21035704, 22.40-CL-23070899, 23.20-CL-23783097, 24.00-CL-24554913, 25.00-CL-25909622, 25.11-CL-26171015, 27.11-CL-29739262, 28.00-CL-29915848, 28.30-CL-31511038, 32.11-CL-38371047, QAGame UE4.11
+  [Me](https://github.com/llamaqwerty): 4.1-CL-4053532, 5.10-CL-4225813, 6.01-CL-4417689, 8.40-CL-6005771, 10.40-CL-9380822, 11.00-CL-9562734, 14.60-CL-14786821, 19.01-CL-18489740, 21.20-CL-21035704, 23.20-CL-23783097, 24.00-CL-24554913, 25.00-CL-25909622, 25.11-CL-26171015, 27.11-CL-29739262, 28.00-CL-29915848, 28.30-CL-31511038, 32.11-CL-38371047, QAGame UE4.11
   
   [Shoqaratio](https://github.com/Shoqaratio): OT6.5, 1.7.2-CL-3700114, 1.11-CL-3807424, 2.4.0-CL-3858292, 3.0-CL-3901517, 3.5-CL-4008490, 3.6-CL-4019403, 4.0-CL-4039451, 4.1-CL-4053532, 4.2-CL-4072250, 5.41-CL-4363240, 6.21-CL-4526925, 7.00-CL-4629139, 7.30-CL-4834550, 7.40-CL-5046157, 8.00-CL-5203069, 8.50-CL-6058028, 8.51-CL-6165369, 9.10-CL-6639283, 9.41-CL-7609292, 11.00-CL-9603448, 11.31-CL-10800459, 12.41-CL-12905909, 15.30-CL-15341163, 15.50-CL-15526472, 16.40-CL-16218553, 16.50-CL-16432754, 18.10-CL-17619277, 18.40-CL-18163738, 19.40-CL-19215531, 32.11-CL-38371047, 33.11-CL-38773622
 
@@ -186,7 +186,7 @@ A build collection like no other.
 |--------------|---------------|---------------|---------------|
 | 1.11.0 (Release-Cert-CL-3807424) | https://public.simplyblk.xyz/1.11.zip | https://builds.rebootfn.org/1.11.zip | https://galaxiafn.co.uk/1.11.zip |
 | 2.1.0 (Release-Cert-CL-3825894) | https://public.simplyblk.xyz/2.1.0.zip | https://builds.rebootfn.org/2.1.0.zip |
-| 2.2.0 (2.2.0-CL-3841827) | https://public.simplyblk.xyz/2.2.0.rar | https://gofile.io/d/i06lNf |
+| 2.2.0 (2.2.0-CL-3841827) | https://public.simplyblk.xyz/2.2.0.rar |
 | 2.3.0 (2.3.0-CL-3847564) | https://public.simplyblk.xyz/2.3.rar | https://builds.rebootfn.org/2.3.rar |
 | 2.3.2 (2.3.2-CL-3856999) | Lost |
 | 2.4.0 (2.4.0-CL-3858292) | https://public.simplyblk.xyz/2.4.0.zip | https://builds.rebootfn.org/2.4.0.zip | https://galaxiafn.co.uk/2.4.0.zip |
@@ -223,7 +223,7 @@ A build collection like no other.
 | 4.40.1 (4.4-CL-4127312) | https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view |
 | 4.4.X (4.4.x-CL-4132537) | Lost |
 | 4.50 (4.5-CL-4159770) | https://public.simplyblk.xyz/4.5.rar | https://builds.rebootfn.org/4.5.rar | https://galaxiafn.co.uk/4.5.zip |
-| 4.50.1 (4.5-CL-4166199) | https://buzzheavier.com/iblfre1fbedi |
+| 4.50.1 (4.5-CL-4166199) | https://drive.google.com/file/d/1uZ2IO1aY41HmWgq-hb-eyWtXnomkj0nc/view |
 
 ## Season 5
 | Build | Download | Alternative Download | Alternative Download
@@ -478,7 +478,7 @@ A build collection like no other.
 ## Season 19
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 19.00-CL-18335626 | https://public.simplyblk.xyz/19.01.zip | https://buzzheavier.com/jv5o8yraug04 | https://archive.org/compress/fortnite-19.01.7z |
+| 19.00-CL-18335626 | https://public.simplyblk.xyz/19.01.zip | https://archive.org/compress/fortnite-19.01.7z |
 | 19.00-CL-18380290 | Unavailable |
 | 19.01-CL-18415863 | Lost |
 | 19.01-CL-18489740 | https://r2.ploosh.dev/19.01.zip | https://archive.org/download/Fortnite-19.01-CL-18489740.zip/19.01-CL-18489740.zip |
@@ -496,8 +496,8 @@ A build collection like no other.
 |--------------|---------------|---------------|---------------|
 | 20.00-CL-19458861 | https://public.simplyblk.xyz/20.00.rar | https://r2.kovryn.xyz/20.00-CL-19458861.7z |
 | 20.00-CL-19532288 | Unavailable |
-| 20.10-CL-19598943 | https://public.simplyblk.xyz/20.10.zip | https://buzzheavier.com/oi487w43zf44 |
-| 20.20-CL-19751212 | https://public.simplyblk.xyz/20.20.zip | https://buzzheavier.com/zdwislakbkfo |
+| 20.10-CL-19598943 | https://public.simplyblk.xyz/20.10.zip |
+| 20.20-CL-19751212 | https://public.simplyblk.xyz/20.20.zip |
 | 20.20-CL-19896998 | Unavailable |
 | 20.30-CL-19950687 | https://galaxiafn.co.uk/20.30.zip | https://cdn.cbn.lol/20.30 |
 | 20.30-CL-20037261 | Unavailable |
@@ -509,7 +509,7 @@ A build collection like no other.
 |--------------|---------------|---------------|---------------|
 | 21.00-CL-20463113 | https://r2.ploosh.dev/21.00.zip | https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view
 | 21.00-CL-20548557 | Unavailable |
-| 21.10-CL-20696680 | https://public.simplyblk.xyz/21.10.zip | https://buzzheavier.com/9e29dib7vc50 |
+| 21.10-CL-20696680 | https://public.simplyblk.xyz/21.10.zip |
 | 21.10-CL-20756627 | Lost |
 | 21.10-CL-20777648 | Lost |
 | 21.10-CL-20829351 | Unavailable |
@@ -535,7 +535,7 @@ A build collection like no other.
 | 22.20-CL-22523251 | Lost |
 | 22.20-CL-22600409 | Unavailable |
 | 22.30-CL-22803135 | Unavailable |
-| 22.40-CL-23070899 | https://gofile.io/d/4qen4s |
+| 22.40-CL-23070899 | Unavailable |
 
 ## Season 23
 | Build | Download | Alternative Download | Alternative Download
@@ -721,6 +721,8 @@ A build collection like no other.
 
 <details>
   <summary><h2>Small Contributors (Download Links End Here)</h2></summary>
+
+ [Toastpanbutreal](https://www.youtube.com/channel/UCWp91xhi1378g1tA1GjP-xw): 4.5-CL-4166199
 
  minilun4r: 10.40-CL-9380822
 
