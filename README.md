@@ -7,7 +7,7 @@ A build collection like no other.
 <details open>
   <summary><h1>Fortnite Builds Text Archive</h1></summary>
 
- If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/btd4q5jl5rq6j6dcbl4yl/Fortnite-Builds-Text-Archive-27.01.txt?rlkey=wgoz934ncak63ddcg155hy5z8&st=ytv8du7r&dl=0)
+ If you want a more detailed archive with even more links then [Check this out!]()
 
 </details>
 
@@ -20,15 +20,13 @@ A build collection like no other.
 
   [Auties](https://github.com/Auties00): 1.7.2-CL-3700114, 1.8-CL-3724489, 1.8.1-CL-3729133, 1.8.2-CL-3741772, 1.9-CL-3757339, 1.9.1-CL-3775276, 1.10-CL-3790078, 1.11-CL-3807424, 2.1.0-CL-3825894, 2.3.0-CL-3847564, 2.4.0-CL-3858292, 2.4.2-CL-3870737, 2.5-CL-3889387, 3.0.0-CL-3901517, 3.1-CL-3915963, 3.1-CL-3915963, 3.2-CL-3935073, 3.3-CL-3942182, 3.5-CL-4008490, 4.0-CL-4039451, 4.2-CL-4072250, 4.4-CL-4117433, 4.5-CL-4159770, 5.00-CL-4204761, 5.00-CL-4214610, 5.10-CL-4240749, 5.21-CL-4288479, 5.30-CL-4305896, 5.40-CL-4352937, 6.00-CL-4395664, 6.01-CL-4417689, 6.01-CL-4424678, 6.02-CL-4442095, 6.02-CL-4461277, 6.10-CL-4464155, 6.10-CL-4476098, 6.10-CL-4480234, 6.21-CL-4526925, 6.22-CL-4543176, 6.30-CL-4579044, 6.31-CL-4573279, 7.00-CL-4629139, 7.10-CL-4667333, 7.20-CL-4727874, 7.30-CL-4834550, 7.40-CL-5046157, 8.00-CL-5203069, 8.20-CL-5625478, 8.30-CL-5793395, 8.40-CL-6005771, 8.50-CL-6058028, 8.51-CL-6165369, 9.00-CL-6337466, 9.01-CL-6428087, 9.10-CL-6639283, 9.21-CL-6922310, 9.30-CL-7095426, 9.40-CL-7315705, 9.41-CL-7609292, 10.00-CL-7704164, 10.10-CL-7955722, 10.20-CL-8456527, 10.31-CL-8723043
 
-[0729たいがー](https://discord.gg/5dwHYcVwtP): 7.40-CL-5046157, 24.20-CL-25156858, 24.40-CL-25595478, 29.00-CL-32116959
+[0729たいがー](https://discord.gg/5dwHYcVwtP): 24.20-CL-25156858, 24.40-CL-25595478, 29.00-CL-32116959
 
-  [Me](https://github.com/llamaqwerty): 4.1-CL-4053532, 5.10-CL-4225813, 6.01-CL-4417689, 8.40-CL-6005771, 10.40-CL-9380822, 11.00-CL-9562734, 14.60-CL-14786821, 19.01-CL-18489740, 21.20-CL-21035704, 23.20-CL-23783097, 24.00-CL-24554913, 25.00-CL-25909622, 25.11-CL-26171015, 27.11-CL-29739262, 28.00-CL-29915848, 28.30-CL-31511038, 32.11-CL-38371047, QAGame UE4.11
+  [Me](https://github.com/llamaqwerty): 4.1-CL-4053532, 6.01-CL-4417689, 8.40-CL-6005771, 10.40-CL-9380822, 11.00-CL-9562734, 19.01-CL-18489740, 24.00-CL-24554913, 27.11-CL-29739262, 28.00-CL-29915848, 28.30-CL-31511038, 32.11-CL-38371047, QAGame UE4.11
   
   [Shoqaratio](https://github.com/Shoqaratio): OT6.5, 1.7.2-CL-3700114, 1.11-CL-3807424, 2.4.0-CL-3858292, 3.0-CL-3901517, 3.5-CL-4008490, 3.6-CL-4019403, 4.0-CL-4039451, 4.1-CL-4053532, 4.2-CL-4072250, 5.41-CL-4363240, 6.21-CL-4526925, 7.00-CL-4629139, 7.30-CL-4834550, 7.40-CL-5046157, 8.00-CL-5203069, 8.50-CL-6058028, 8.51-CL-6165369, 9.10-CL-6639283, 9.41-CL-7609292, 11.00-CL-9603448, 11.31-CL-10800459, 12.41-CL-12905909, 15.30-CL-15341163, 15.50-CL-15526472, 16.40-CL-16218553, 16.50-CL-16432754, 18.10-CL-17619277, 18.40-CL-18163738, 19.40-CL-19215531, 32.11-CL-38371047, 33.11-CL-38773622
 
   [Aorux](https://www.youtube.com/channel/UCuwn6IZv299qUyYI_5cM8yg): 6.00-CL-4402180, 6.20-CL-4497486, 9.20-CL-6822798, 10.30-CL-8569414, 11.00-CL-9562734, 11.01-CL-9728272, 11.10-CL-9901083, 11.11-CL-10082788, 11.21-CL-10481509, 11.40-CL-11039906, 12.00-CL-11586896, 12.60-CL-13477524, 15.00-CL-14835335, 15.21-CL-15083856, 16.00-CL-15685441, 16.10-CL-15913292, 16.50-CL-16469788, 17.10-CL-16745144, 17.20-CL-16868155, 17.21-CL-16967001, 17.40-CL-17269705, 18.20-CL-17792290, 24.40-CL-25521145
-
-  [ka pum](https://x.com/KPMisParrot): 14.30-CL-14456520, 29.00-CL-31978752, 31.40-CL-36874825
 
   [ploosh](https://github.com/plooshi): 15.30-CL-15341163, 19.01-CL-18489740, 21.00-CL-20463113, 24.20-CL-24939793, 26.30-CL-28509302, 26.30-CL-28688692
 
@@ -149,7 +147,7 @@ A build collection like no other.
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | Cert (Cert-CL-3532353) (Windows, Windows) | https://drive.google.com/file/d/1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37/view | https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z |
-| 1.2.0 (Cert-CL-3541083) | https://gofile.io/d/jU1Grz |
+| 1.2.0 (Cert-CL-3541083) | Unavailable |
 | 1.4.0 | Lost |
 | 1.4.1 | Lost |
 | 1.4.2 | Lost |
@@ -230,7 +228,7 @@ A build collection like no other.
 |--------------|---------------|---------------|---------------|
 | 5.00 (5.00-CL-4204761) | https://public.simplyblk.xyz/5.00.rar | https://builds.rebootfn.org/5.00.rar |
 | 5.00.1 (5.00-CL-4214610) | https://public.simplyblk.xyz/5.0.1.rar | https://builds.rebootfn.org/5.0.1.rar |
-| 5.10 (5.10-CL-4225813) | https://buzzheavier.com/g11m3spikhsj |
+| 5.10 (5.10-CL-4225813) | Unavailable |
 | 5.10.1 (5.10-CL-4240749) | https://public.simplyblk.xyz/5.10.rar | https://builds.rebootfn.org/5.10.rar |
 | 5.20 (5.20-CL-4259375) | Lost |
 | 5.20.1 (5.20-CL-4276938) | Lost |
@@ -372,7 +370,7 @@ A build collection like no other.
 | 12.50-CL-13193885 | Lost |
 | 12.60-CL-13315662 | Lost |
 | 12.60-CL-13477524 | https://download.fn-archive.com/FortniteClient-12.60-CL-13477524.7z |
-| 12.61-CL-13498980 | https://public.simplyblk.xyz/12.61.zip | https://saturn.nxa.app/12.61.zip | https://gofile.io/d/LB7yyh |
+| 12.61-CL-13498980 | https://public.simplyblk.xyz/12.61.zip | https://saturn.nxa.app/12.61.zip |
 
 ## Season 13
 | Build | Download | Alternative Download | Alternative Download
@@ -405,7 +403,7 @@ A build collection like no other.
 | 14.50-CL-14643651 | https://cdn.cbn.lol/14.50 |
 | 14.60-CL-14756138 | Lost |
 | 14.60-CL-14785135 | Lost |
-| 14.60-CL-14786821 | https://public.simplyblk.xyz/14.60.rar | https://galaxiafn.co.uk/14.60.zip | https://gofile.io/d/9Hiqb0 |
+| 14.60-CL-14786821 | https://public.simplyblk.xyz/14.60.rar | https://galaxiafn.co.uk/14.60.zip |
 
 ## Season 15
 | Build | Download | Alternative Download | Alternative Download
@@ -515,7 +513,7 @@ A build collection like no other.
 | 21.10-CL-20829351 | Unavailable |
 | 21.20-CL-20890025 | Unavailable |
 | 21.20-CL-20978394 | https://cdn.cbn.lol/21.20 |
-| 21.20-CL-21035704 | https://buzzheavier.com/aoxiysnhgw2p |
+| 21.20-CL-21035704 | Unavailable |
 | 21.30-CL-21102315 | Lost |
 | 21.30-CL-21155462 | https://cdn.cbn.lol/21.30 |
 | 21.40-CL-21348157 | Lost |
@@ -544,7 +542,7 @@ A build collection like no other.
 | 23.10-CL-23443094 | https://public.simplyblk.xyz/23.10.rar |
 | 23.10-CL-23572221 | https://cdn.cbn.lol/23.10 |
 | 23.20-CL-23659353 | Unavailable |
-| 23.20-CL-23783097 | https://buzzheavier.com/e18boqq9ivc0 |
+| 23.20-CL-23783097 | Unavailable |
 | 23.30-CL-23901854 | Lost |
 | 23.30-CL-23986860 | Unavailable |
 | 23.40-CL-24087481 | https://public.simplyblk.xyz/23.40.zip |
@@ -573,9 +571,9 @@ A build collection like no other.
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 25.00-CL-25784668 | Unavailable |
-| 25.00-CL-25909622 | https://buzzheavier.com/05nsnqdfvzcf |
+| 25.00-CL-25909622 | Unavailable |
 | 25.10-CL-26000959 | Unavailable |
-| 25.11-CL-26171015 | https://gofile.io/d/pnf1MD |
+| 25.11-CL-26171015 | Unavailable |
 | 25.20-CL-26474516 | Unavailable |
 | 25.20-CL-26629111 | Unavailable |
 | 25.30-CL-26867995 | Unavailable |
@@ -605,14 +603,14 @@ A build collection like no other.
 | 28.01-CL-30313795 | Unavailable |
 | 28.10-CL-30676362 | Unavailable |
 | 28.10-CL-30835064 | Unavailable |
-| 28.20-CL-31165234 | https://buzzheavier.com/hobg7favbekg | https://gofile.io/d/e9BQ6I | 
+| 28.20-CL-31165234 | https://buzzheavier.com/hobg7favbekg | 
 | 28.20-CL-31286935 | Unavailable |
 | 28.30-CL-31511038 | https://gofile.io/d/pIYSae |
 
 ## Season 29
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 29.00-CL-31978752 | https://gofile.io/d/5QxNpS |
+| 29.00-CL-31978752 | Unavailable |
 | 29.00-CL-32116959 | https://gofile.io/d/cw0eee |
 | 29.01-CL-32291970 | Unavailable |
 | 29.10-CL-32391220 | Unavailable |
@@ -644,7 +642,7 @@ A build collection like no other.
 | 31.20-CL-36253989 | https://drive.google.com/file/d/1zzgcJTe4EtMBFB5yP-M5uvm88SJo6HkK/view |
 | 31.20-CL-36348034 | Unavailable |
 | 31.30-CL-36600465 | Unavailable |
-| 31.40-CL-36874825 | https://gofile.io/d/Rg8vSP |
+| 31.40-CL-36874825 | Unavailable |
 | 31.40-CL-37076506 | Unavailable |
 | 31.41-CL-37324991 | Unavailable |
 
@@ -710,17 +708,25 @@ A build collection like no other.
 |--------------|---------------|---------------|---------------|
 | 37.00-CL-44501951 | Manifest Available |
 | 37.00-CL-44765404 | Manifest Available |
-| 37.10-CL-45056983 | Current |
+| 37.10-CL-45056983 |  |
+| 37.10-CL-45566377 | Manifest Available |
+| 37.20-CL-45566402 | Manifest Available |
+| 37.20-CL-45679054 | Manifest Available |
+| 37.30-CL-45814998 | Manifest Available |
+| 37.31-CL-46047957 | Manifest Available |
+| 37.40-CL-46295673 | Current |
 
 ## Other
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | QAGame UE4.11 | https://buzzheavier.com/7x179izsqtmw |
 | QAGame UE5.2 | Unavailable |
-| Main-CL-21452241 (Xbox One) | https://gofile.io/d/iRxxMg |
+| Main-CL-21452241 | Unavailable |
 
 <details>
   <summary><h2>Small Contributors (Download Links End Here)</h2></summary>
+
+ [brentie](https://guns.lol/brentie): 1.11-CL-3807424, 12.41-CL-12905909
 
  [Toastpanbutreal](https://www.youtube.com/channel/UCWp91xhi1378g1tA1GjP-xw): 4.5-CL-4166199
 
@@ -728,7 +734,7 @@ A build collection like no other.
 
  [ImagineThisGuy](https://github.com/ImagineThisGuy2): 12.61-CL-1349898
 
- [brentie](https://guns.lol/brentie): 1.11-CL-3807424, 12.41-CL-12905909
+ [ka pum](https://x.com/KPMisParrot): 14.30-CL-14456520
 
  [PrivateUser](https://privateuser.xyz/): 19.10-CL-18675304
 
@@ -737,8 +743,6 @@ A build collection like no other.
  [Leeroooooy Jenkins](https://github.com/BestInTest): 28.20-CL-31165234
 
  [WildFurball](https://www.youtube.com/channel/UCysnqc0X_aJNRpURVTjOgrw): 32.11-CL-38202817
-
- [P2X Optic](https://www.youtube.com/@Yanny57): Main-CL-21452241
 
 </details>
 
