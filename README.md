@@ -60,6 +60,8 @@ A build collection like no other.
 
   Buzzheavier will be broken if your adblocker is enabled
 
+  Repressoh's CDN only works occasionally
+
 </details>
 
 <details>
