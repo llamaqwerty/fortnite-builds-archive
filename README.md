@@ -7,7 +7,7 @@ A build collection like no other.
 <details open>
   <summary><h1>Fortnite Builds Text Archive</h1></summary>
 
- If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/1vpa5bsutonfhsu75qw3d/Fortnite-Builds-Text-Archive-29.00.txt?rlkey=z1fld3pissswo6ndrh07f59qi&st=1n5kwa6d&dl=0)
+ If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/23m7txpuv0fru1v0gm2d2/Fortnite-Builds-Text-Archive-29.01.txt?rlkey=3qehjh59krveia8u45a2h8tt6&st=hb4u7yo7&dl=0)
 
 </details>
 
@@ -28,11 +28,13 @@ A build collection like no other.
 
   [Aorux](https://www.youtube.com/channel/UCuwn6IZv299qUyYI_5cM8yg): 6.00-CL-4402180, 6.20-CL-4497486, 9.20-CL-6822798, 10.30-CL-8569414, 11.00-CL-9562734, 11.01-CL-9728272, 11.10-CL-9901083, 11.11-CL-10082788, 11.21-CL-10481509, 11.40-CL-11039906, 12.00-CL-11586896, 12.60-CL-13477524, 15.00-CL-14835335, 15.21-CL-15083856, 16.00-CL-15685441, 16.10-CL-15913292, 16.50-CL-16469788, 17.10-CL-16745144, 17.20-CL-16868155, 17.21-CL-16967001, 17.40-CL-17269705, 18.20-CL-17792290, 24.40-CL-25521145
 
-  [ploosh](https://github.com/plooshi): 15.30-CL-15341163, 19.01-CL-18489740, 21.00-CL-20463113, 24.20-CL-24939793, 26.30-CL-28509302, 26.30-CL-28688692, Main-CL-21452241
+  [ploosh](https://github.com/plooshi): 15.30-CL-15341163, 19.01-CL-18489740, 21.00-CL-20463113, 24.20-CL-24939793, 25.11-CL-26171015, 26.30-CL-28509302, 26.30-CL-28688692, Main-CL-21452241
 
   peppa pig: 4.10-CL-4053532, 31.20-CL-36253989, 34.10-CL-40567068
 
   Kovryn: 20.00-CL-19458861, 23.50-CL-24441668, 24.20-CL-24939793
+
+  [Timmy](https://github.com/timjans01): 12.41-CL-12905909, 18.10-CL-17661844, 18.20-CL-17745267, 20.30-CL-19950687, 21.20-CL-20978394
 
   All small contributors (contributors of 2 or 1 builds) will go towards the bottom and large contributors (contributors of 3 or more builds) will go towards the top
 
@@ -343,7 +345,7 @@ A build collection like no other.
 | 11.30-CL-10708866 | https://fn-builds.repressoh.it/11.30.7z |
 | 11.31-CL-10760473 | Lost |
 | 11.31-CL-10795579 | Lost |
-| 11.31-CL-10800459 | https://fn-builds.repressoh.it/11.31.rar | https://www.dropbox.com/scl/fi/7yj88ce0teullo3i8dbjb/11.31.rar?rlkey=sjm3anenm679qkejvggdq9m90&dl=1 |
+| 11.31-CL-10800459 | https://drive.google.com/file/d/1s3AVQ39T56uDrGrIEk9djHqVucW5Yx_J/view | https://fn-builds.repressoh.it/11.31.rar | https://www.dropbox.com/scl/fi/7yj88ce0teullo3i8dbjb/11.31.rar?rlkey=sjm3anenm679qkejvggdq9m90&dl=1 |
 | 11.40-CL-10951104 | Lost |
 | 11.40-CL-11039906 | https://download.fn-archive.com/FortniteClient-11.40-CL-11039906.7z | https://fn-builds.repressoh.it/11.40-CL-11039906.7z |
 | 11.40-CL-11109625 | Lost |
@@ -466,8 +468,8 @@ A build collection like no other.
 | 18.00-CL-17468642 | https://fn-builds.repressoh.it/18.00.rar | https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view |
 | 18.00-CL-17519952 | Unavailable |
 | 18.10-CL-17619277 | https://www.dropbox.com/scl/fi/lz5z5a1ue3pxfdokii2qv/18.10-CL-17619277.7z?rlkey=rhh3hnfsfgurlrs4lhundax7b&dl=1 |
-| 18.10-CL-17661844 | https://fn-builds.repressoh.it/18.10-CL-17661844.7z |
-| 18.20-CL-17745267 | https://fn-builds.repressoh.it/18.20-CL-17745267.zip |
+| 18.10-CL-17661844 | https://cdn.cbn.lol/18.10 | https://fn-builds.repressoh.it/18.10-CL-17661844.7z |
+| 18.20-CL-17745267 | https://cdn.cbn.lol/18.20 | https://fn-builds.repressoh.it/18.20-CL-17745267.zip |
 | 18.20-CL-17792290 | https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z | https://fn-builds.repressoh.it/18.20-CL-17792290.7z |
 | 18.21-CL-17811397 | https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z |
 | 18.30-CL-17882303 | https://fn-builds.repressoh.it/18.30.7z |
@@ -497,7 +499,7 @@ A build collection like no other.
 | 20.10-CL-19598943 | https://fn-builds.repressoh.it/20.10.zip |
 | 20.20-CL-19751212 | https://fn-builds.repressoh.it/20.20.zip |
 | 20.20-CL-19896998 | Unavailable |
-| 20.30-CL-19950687 | https://fn-builds.repressoh.it/20.30.zip |
+| 20.30-CL-19950687 | https://cdn.cbn.lol/20.30 | https://fn-builds.repressoh.it/20.30.zip |
 | 20.30-CL-20037261 | Unavailable |
 | 20.40-CL-20175294 | Lost |
 | 20.40-CL-20244966 | https://fn-builds.repressoh.it/20.40-CL-20244966.zip |
@@ -512,7 +514,7 @@ A build collection like no other.
 | 21.10-CL-20777648 | Lost |
 | 21.10-CL-20829351 | Unavailable |
 | 21.20-CL-20890025 | Unavailable |
-| 21.20-CL-20978394 | https://fn-builds.repressoh.it/21.20-CL-20978394.7z |
+| 21.20-CL-20978394 | https://cdn.cbn.lol/21.20 | https://fn-builds.repressoh.it/21.20-CL-20978394.7z |
 | 21.20-CL-21035704 | Unavailable |
 | 21.30-CL-21102315 | Lost |
 | 21.30-CL-21155462 | https://fn-builds.repressoh.it/21.30-CL-21155462.7z |
@@ -573,7 +575,7 @@ A build collection like no other.
 | 25.00-CL-25784668 | Unavailable |
 | 25.00-CL-25909622 | Unavailable |
 | 25.10-CL-26000959 | Unavailable |
-| 25.11-CL-26171015 | Unavailable |
+| 25.11-CL-26171015 | https://r2.ploosh.dev/25.11.zip |
 | 25.20-CL-26474516 | Unavailable |
 | 25.20-CL-26629111 | Unavailable |
 | 25.30-CL-26867995 | Unavailable |
@@ -740,9 +742,7 @@ A build collection like no other.
 
  [brentie](https://guns.lol/brentie): 12.41-CL-12905909
 
- [Puppe](https://www.youtube.com/channel/UCUOoVSwxnPkS_oNdhA6oAMg): 12.41-CL-12905909
-
- [Timmy](https://github.com/timjans01): 12.41-CL-12905909
+ [Puppe](https://www.youtube.com/channel/UCUOoVSwxnPkS_oNdhA6oAMg): 11.31-CL-10800459, 12.41-CL-12905909
 
  [ImagineThisGuy](https://github.com/ImagineThisGuy2): 12.61-CL-1349898
 
