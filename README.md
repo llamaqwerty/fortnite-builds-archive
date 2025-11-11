@@ -7,7 +7,7 @@ A build collection like no other.
 <details open>
   <summary><h1>Fortnite Builds Text Archive</h1></summary>
 
- If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/23m7txpuv0fru1v0gm2d2/Fortnite-Builds-Text-Archive-29.01.txt?rlkey=3qehjh59krveia8u45a2h8tt6&st=hb4u7yo7&dl=0)
+ If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/gll9u7xom22wy353a087u/Fortnite-Builds-Text-Archive-Temp.txt?rlkey=ppym2zbug8bzcjplut0icx1kx&st=qthpcrk2&dl=0)
 
 </details>
 
