@@ -1,8 +1,8 @@
-Welcome to the largest up-to-date Fortnite build archive.
+Welcome to the largest ~~up-to-date~~ Fortnite build archive.
 
-A build collection like no other.
+Hey just wanted to say that this will be taking a break for now, most downloads _should_ currently work but I plan the next changes to come in **April 2026**. Cya until then! :3
 
-[If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
+[Join the Discord server to talk about builds!](https://discord.gg/yHwmPbAvZU)
 
 <details open>
   <summary><h1>Fortnite Builds Text Archive</h1></summary>
