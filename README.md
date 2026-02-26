@@ -1,106 +1,10 @@
-Welcome to the largest ~~up-to-date~~ Fortnite build archive.
+Welcome, this archive is now defunct
 
-Hey just wanted to say that this will be taking a break for now, most downloads _should_ currently work but I plan the next changes to come in **April 2026**. Cya until then! :3
+Due to recent severe issues going on with me, I don't have the will to continue this any longer
 
-[Join the Discord server to talk about builds!](https://discord.gg/yHwmPbAvZU)
+Thanks for everything ❤️
 
-<details open>
-  <summary><h1>Fortnite Builds Text Archive</h1></summary>
-
- If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/c62lpawpqf966qnl00xg2/Fortnite-Builds-Text-Archive-31.00.txt?rlkey=s3l24ohw3vgmcahfgd604g253&st=rj3fpt9u&dl=0)
-
-</details>
-
-<details>
-  <summary><h1>Credits</h1></summary>
-
-  Thank you to the following archivists for uploading most of the builds
-
-  [simplyblk](https://github.com/n6617x): OT6.5, 1.7.2-CL-3700114, 1.8-CL-3724489, 1.8.1-CL-3729133, 1.8.2-CL-3741772, 1.9-CL-3757339, 1.9.1-CL-3775276, 1.10-CL-3790078, 1.11-CL-3807424, 2.1.0-CL-3825894, 2.2.0-CL-3841827, 2.3.0-CL-3847564, 2.4.0-CL-3858292, 2.4.2-CL-3870737, 2.5-CL-3889387, 3.0.0-CL-3901517, 3.1-CL-3915963, 3.1-CL-3915963, 3.2-CL-3935073, 3.3-CL-3942182, 3.5-CL-4008490, 4.0-CL-4039451, 4.2-CL-4072250, 4.4-CL-4117433, 4.5-CL-4159770, 5.00-CL-4204761, 5.00-CL-4214610, 5.10-CL-4240749, 5.21-CL-4288479, 5.30-CL-4305896, 5.40-CL-4352937, 6.00-CL-4395664, 6.01-CL-4417689, 6.01-CL-4424678, 6.02-CL-4442095, 6.02-CL-4461277, 6.10-CL-4464155, 6.10-CL-4476098, 6.10-CL-4480234, 6.21-CL-4526925, 6.22-CL-4543176, 6.30-CL-4579044, 6.31-CL-4573279, 7.00-CL-4629139, 7.10-CL-4667333, 7.20-CL-4727874, 7.30-CL-4834550, 7.40-CL-5046157, 8.00-CL-5203069, 8.20-CL-5625478, 8.30-CL-5793395, 8.40-CL-6005771, 8.50-CL-6058028, 8.51-CL-6165369, 9.00-CL-6337466, 9.01-CL-6428087, 9.10-CL-6639283, 9.20-CL-6822798, 9.21-CL-6922310, 9.30-CL-7095426, 9.40-CL-7315705, 9.41-CL-7609292, 10.00-CL-7658179, 10.00-CL-7704164, 10.10-CL-7955722, 10.20-CL-8456527, 10.31-CL-8723043, 10.40-CL-9380822, 11.00-CL-9603448, 11.30-CL-10708866, 11.31-CL-10800459, 12.00-CL-11556442, 12.10-CL-11883027, 12.20-CL-12236980, 12.21-CL-12353830, 12.40-CL-12837456, 12.41-CL-12905909, 12.50-CL-13137020, 12.61-CL-13498980, 13.00-CL-13649278, 13.20-CL-13777676, 13.30-CL-13884634, 13.40-CL-14113327, 14.00-CL-14211474, 14.40-CL-14550713, 14.60-CL-14786821, 15.20-CL-15070882, 15.30-CL-15341163, 16.20-CL-16042441, 16.30-CL-16163563, 16.40-CL-16218553, 16.50-CL-16432754, 17.10-CL-16745144, 17.30-CL-17004569, 17.50-CL-17388565, 18.00-CL-17468642, 18.30-CL-17882303, 18.40-CL-18163738, 19.00-CL-18335626, 19.10-CL-18675304, 19.30-CL-19027703, 19.40-CL-19215531, 20.00-CL-19458861, 20.10-CL-19598943, 20.20-CL-19751212, 20.40-CL-20244966, 21.10-CL-20696680, 21.50-CL-21657658, 21.51-CL-21735703, 22.00-CL-22149829, 23.00-CL-23344627, 23.10-CL-23443094, 23.40-CL-24087481, 23.50-CL-24441668
-
-  [Auties](https://github.com/Auties00): 1.7.2-CL-3700114, 1.8-CL-3724489, 1.8.1-CL-3729133, 1.8.2-CL-3741772, 1.9-CL-3757339, 1.9.1-CL-3775276, 1.10-CL-3790078, 1.11-CL-3807424, 2.1.0-CL-3825894, 2.3.0-CL-3847564, 2.4.0-CL-3858292, 2.4.2-CL-3870737, 2.5-CL-3889387, 3.0.0-CL-3901517, 3.1-CL-3915963, 3.1-CL-3915963, 3.2-CL-3935073, 3.3-CL-3942182, 3.5-CL-4008490, 4.0-CL-4039451, 4.2-CL-4072250, 4.4-CL-4117433, 4.5-CL-4159770, 5.00-CL-4204761, 5.00-CL-4214610, 5.10-CL-4240749, 5.21-CL-4288479, 5.30-CL-4305896, 5.40-CL-4352937, 6.00-CL-4395664, 6.01-CL-4417689, 6.01-CL-4424678, 6.02-CL-4442095, 6.02-CL-4461277, 6.10-CL-4464155, 6.10-CL-4476098, 6.10-CL-4480234, 6.21-CL-4526925, 6.22-CL-4543176, 6.30-CL-4579044, 6.31-CL-4573279, 7.00-CL-4629139, 7.10-CL-4667333, 7.20-CL-4727874, 7.30-CL-4834550, 7.40-CL-5046157, 8.00-CL-5203069, 8.20-CL-5625478, 8.30-CL-5793395, 8.40-CL-6005771, 8.50-CL-6058028, 8.51-CL-6165369, 9.00-CL-6337466, 9.01-CL-6428087, 9.10-CL-6639283, 9.21-CL-6922310, 9.30-CL-7095426, 9.40-CL-7315705, 9.41-CL-7609292, 10.00-CL-7704164, 10.10-CL-7955722, 10.20-CL-8456527, 10.31-CL-8723043
-
-[0729たいがー](https://discord.gg/5dwHYcVwtP): 24.20-CL-25156858, 24.40-CL-25595478, 29.00-CL-32116959
-
-  [Me](https://github.com/llamaqwerty): 4.1-CL-4053532, 6.01-CL-4417689, 8.40-CL-6005771, 10.40-CL-9380822, 11.00-CL-9562734, 19.01-CL-18489740, 24.00-CL-24554913, 27.11-CL-29739262, 28.00-CL-29915848, 28.30-CL-31511038, QAGame UE4.11
-  
-  [Shoqaratio](https://github.com/Shoqaratio): 11.31-CL-10800459, 18.10-CL-17619277, 19.40-CL-19215531, 22.40-CL-23070899, 32.11-CL-38371047, 33.11-CL-38773622, 38.11-CL-48390828
-
-  [Aorux](https://www.youtube.com/channel/UCuwn6IZv299qUyYI_5cM8yg): 6.20-CL-4497486, 11.10-CL-9901083, 11.40-CL-11039906, 12.60-CL-13477524, 15.00-CL-14835335, 15.21-CL-15083856, 16.00-CL-15685441, 16.10-CL-15913292, 17.20-CL-16868155, 17.40-CL-17269705, 18.20-CL-17792290, 18.21-CL-17811397
-
-  [ploosh](https://github.com/plooshi): 15.30-CL-15341163, 19.01-CL-18489740, 19.10-CL-18675304, 21.00-CL-20463113, 24.20-CL-24939793, 25.11-CL-26171015, 26.30-CL-28509302, 26.30-CL-28688692, Main-CL-21452241
-
-  peppa pig: 4.10-CL-4053532, 31.20-CL-36253989, 34.10-CL-40567068
-
-  Kovryn: 20.00-CL-19458861, 23.50-CL-24441668, 24.20-CL-24939793
-
-  [Timmy](https://github.com/timjans01): 12.41-CL-12905909, 18.10-CL-17661844, 18.20-CL-17745267, 20.30-CL-19950687, 21.20-CL-20978394, 27.00-CL-29072304, 27.10-CL-29552510
-
-  3PA5_Off: 25.20-CL-26629111, 38.00-CL-47291259, 38.00-CL-47722112, 38.10-CL-47888945, 38.11-CL-48390828
-
-  [Jalen](https://x.com/JalenLeakss): 35.00-CL-41994699, 38.00-CL-47291259, 38.00-CL-47722112, 38.10-CL-47888945, 38.11-CL-48390828
-
-  All small contributors (contributors of 2 or 1 builds) will go towards the bottom and large contributors (contributors of 3 or more builds) will go towards the top
-
-</details>
-
-<details open>
-  <summary><h2>Contact</h2></summary>
-  
-  Contact me through my Discord server (@llamaqwerty) or email (llama.dvorak@hotmail.com)
-
-  I would love to have feedback so I know what to improve in future updates, also please address issues to me immediately
-
-  Both methods are acceptable if you have a build you want to contribute
-
-</details>
-
-<details>
-  <summary><h2>Issues</h2></summary>
-
-  If you have issues downloading from different links then check to see if they are addressed here.
-
-  If a google drive link says there are too many people use the [bypass glitch](https://www.youtube.com/watch?v=_xW9w1d2LEY)
-
-  Certain links don't work on the first try
-
-  Buzzheavier will be broken if your adblocker is enabled
-
-</details>
-
-<details>
-  <summary><h2>Uploader's Disclosure</h2></summary>
-
-  I am implementing requirements necessary if you want your CDN's links included on here. Your links must actively work for the majority of people. The links must be capable of fully downloading without any issues. The bandwidth cap should not be so low that it takes several hours to fully download with the exception of slow internet. If you don't resolve any of these issues, then it will be removed for good no matter the circumstances.
-
-</details>
-
-<details>
-  <summary><h2>Notes</h2></summary>
-
-  I am not the owner of any of these builds and am not resposible for any of the wesbites they are on. Keep in mind some links may say they provide a certain version when they have been proven to actually be a different version.
-
-  If you want to download builds using manifests, you can [get Legendary from here](https://drive.google.com/drive/u/0/folders/1NXsfDJEwNBanjWFaLaZH7q3IdY3eKuEE) and [get manifests from here](https://github.com/polynite/fn-releases)
-
-  All builds on this repository are Windows builds. If you want builds for alternative platforms then these following links will take you to a different website where you can get them:
-
-  [Android Builds Archive](https://github.com/itztiva/FortniteAndroidBuilds)
-
-  [Chinese Builds Archive](https://github.com/simonhxd/Fortnite-China-Archive)
-
-  [iOS Builds Archive](https://github.com/Repressoh/Fortnite-iOS-Archive)
-
-  [Nintendo Switch Builds Archive](https://switch-builds.ezfn.dev/tinfoil_unfiltered.json)
-
-  [PS4 Builds Archive](https://orbispatches.com/CUSA07022)
-
-  [Xbox One Builds Archive](https://github.com/Xader726/FortniteXboxBuilds)
-
-  If you have a build considered lost or unavailable then try uploading it and send me the link!
-
-</details>
-
-## Online Testing (Download Links Start Here)
+## Online Testing
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | OT1 (4.?.0-???????) | Lost |
@@ -745,29 +649,6 @@ Hey just wanted to say that this will be taking a break for now, most downloads 
 | ++Fortnite+Release-Cert-CL-3472997-XboxOne (31.10 Dev) | Unavailable |
 
 <details>
-  <summary><h2>Small Contributors (Download Links End Here)</h2></summary>
-
- [Toastpanbutreal](https://www.youtube.com/channel/UCWp91xhi1378g1tA1GjP-xw): 4.5-CL-4166199
-
- minilun4r: 10.40-CL-9380822
-
- [brentie](https://guns.lol/brentie): 12.41-CL-12905909
-
- [Puppe](https://www.youtube.com/channel/UCUOoVSwxnPkS_oNdhA6oAMg): 11.31-CL-10800459, 12.41-CL-12905909
-
- [ka pum](https://x.com/KPMisParrot): 14.30-CL-14456520
-
- [andrew](https://github.com/andr1ww): 23.50-CL-24441668
-
- [P2X Optic](https://x.com/yanny57lol): 30.00-CL-33962396
-
- [WildFurball](https://www.youtube.com/channel/UCysnqc0X_aJNRpURVTjOgrw): 32.11-CL-38202817
-
- skye: QAGame UE4.11, QAGame UE5.2
-
-</details>
-
-<details>
   <summary><h2>Milestones</h2></summary>
 
 10 Stars, April 7th, 2025
@@ -788,4 +669,4 @@ Hey just wanted to say that this will be taking a break for now, most downloads 
 
 </details>
 
-For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno
+❤️
