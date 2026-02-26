@@ -113,7 +113,7 @@ Thanks for everything ❤️
 | 3.40 (3.4-CL-3968866) | Lost |
 | 3.40.1 (3.4-CL-3973340) | Lost |
 | 3.50 (3.5-CL-3994867) | Lost |
-| 3.50.1 (3.5-CL-4000805) | Lost |
+| 3.50.1 (3.5-CL-4000805) | https://archive.org/details/fortnite-4000805-3.5 | 
 | 3.50.2 (3.5-CL-4008490) | https://public.simplyblk.xyz/3.5.rar | https://builds.rebootfn.org/3.5.rar |
 | 3.60 (3.6-CL-4019403) | https://archive.org/download/fortnite-v3.6/Fortnite%20v3.6.7z |
 
